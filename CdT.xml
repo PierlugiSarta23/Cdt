@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type= "text/xsl" href="Cdt.xsl"?>
+
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xml:lang="it"
+      xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                       <title>
+            La Rassegna Settimanale, Volume 4, Fascicolo 100
+                       </title>
+                       <respStmt>
+                             <resp>Codifica TEI realizzata da:</resp>
+                             <name xml:id="PS">Pierluigi Sarta</name>
+                       </respStmt>
+                       <sponsor>Università di Pisa</sponsor>
+                  </titleStmt>
+
+                  <publicationStmt>
+                        <publisher>Università di Pisa</publisher>
+                        <pubPlace>Pisa</pubPlace>
+                        <date>2025</date>
+                        <availability status= "free">
+                              <p>L'edizione digitale è consultabile liberamente</p>
+                        </availability>
+                  </publicationStmt>
+
+                  <seriesStmt>
+                        <title>Edizione elettronica della rivista "La Rassegna Settimanale"</title>
+                        <respStmt>
+                              <resp>coordinata dal professor</resp>
+                              <name>Angelo Mario Del Grosso</name>
+                        </respStmt>
+                  </seriesStmt>
+
+                  <notesStmt>
+                        <note> La digitalizzazione e l'indicizzazione della Rassegna settimanale è stata realizzata nell'ambito delle iniziative previste per il Centenario della morte di Leopoldo Franchetti.</note>
+                        <note> La scansione digitale dell'intera rivista è consultabile sul sito: <ref target=""></ref>
+                        </note>
+                  </notesStmt>
+
+                  <sourceDesc>
+                    <biblStruct type="article">
+                          <analytic xml:id="art1">
+                                <title level="a">Riviste Italiane</title>
+                                <textLang mainLang="it">Italiano</textLang>
+                          </analytic>
+                          <analytic xml:id="art2">
+                                <title level="a">I poveri in Inghilterra</title>
+                                <textLang mainLang="it">Italiano</textLang>
+                          </analytic>
+                          <analytic xml:id="bibliografia1">
+                                <author>
+                                      <persName>Paul David Fischer</persName>
+                                </author>
+                                <title level="m">Dall'Italia - Ricordi, Studi ed Escursioni</title>
+                                <date>1879</date>
+                                <textLang mainLang="it">Italiano</textLang>
+                          </analytic>
+                          <analytic xml:id="bibliografia2">
+                                <author>
+                                      <persName>Bartolommeo Fontana</persName>
+                                </author>
+                                <title level="m">Scienze Filosofiche</title>
+                                <date>1879</date>
+                                <textLang mainLang="it">Italiano</textLang>
+                          </analytic>
+                          <analytic xml:id="notizia1">
+                                <title level="m">Periodici Inglesi</title>
+                                <date>1879</date>
+                                <textLang mainLang="it">Italiano</textLang>
+                          </analytic>
+                          <analytic xml:id="notizia2">
+                                <title level="m">Periodici Francesi</title>
+                                <date>1879</date>
+                                <textLang mainLang="it">Italiano</textLang>
+                          </analytic>
+                          <monogr>
+                                <title level="j"> La Rassegna di Politica, Scienze, Lettere ed Arti</title>
+                                <textLang mainLang="it">Italiano</textLang>
+                                <respStmt>
+                                      <resp>Fondata da</resp>
+                                      <name>Leopoldo Franchetti</name>
+                                      <name>Sydney Sonnino</name>
+                                </respStmt>
+                                <imprint>
+                                      <pubPlace>Roma</pubPlace>
+                                      <publisher>Tipografia Barbera</publisher>
+                                      <date when="30-11-1879">30 novembre 1879</date>
+                                </imprint>
+                                <biblScope unit="volume">4</biblScope>
+                                <biblScope unit="article">100</biblScope>
+                                <biblScope unit="page">373, 375, 376, 377, 391, 392, 393</biblScope>
+                          </monogr>
+                    </biblStruct>
+                    </sourceDesc>
+            </fileDesc>
+
+            <encodingDesc>
+                  <projectDesc>
+                        <p>Il testo rispetta le linee guida della TEI ed è stato realizzato per il corso di Codifica Di Testi dell'<orgName>Università di Pisa</orgName>
+                        </p>
+                  </projectDesc>
+            </encodingDesc>
+      </teiHeader>
+
+      <facsimile>
+
+           <!--PAGINA 373-->
+           <surface xml:id="pag373" n="373">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0002.jpg' width='1154.4px' height='1735.4px' />
+            <zone xml:id="riga1art1" ulx="60" uly="115" lrx="562" lry="123" />
+            <zone xml:id="riga2art1" ulx="62" uly="231" lrx="563" lry="233" />
+            <zone xml:id="riga3art1" ulx="61" uly="252" lrx="564" lry="254" />
+            <zone xml:id="riga4art1" ulx="60" uly="275" lrx="565" lry="276" />
+            <zone xml:id="riga5art1" ulx="61" uly="297" lrx="563" lry="297" />
+            <zone xml:id="riga6art1" ulx="62" uly="318" lrx="563" lry="319" />
+            <zone xml:id="riga7art1" ulx="61" uly="338" lrx="561" lry="340" />
+            <zone xml:id="riga8art1" ulx="60" uly="360" lrx="563" lry="364" />
+            <zone xml:id="riga9art1" ulx="63" uly="381" lrx="557" lry="385" />
+            <zone xml:id="riga10art1" ulx="63" uly="404" lrx="563" lry="406" />
+            <zone xml:id="riga11art1" ulx="61" uly="425" lrx="563" lry="428" />
+            <zone xml:id="riga12art1" ulx="63" uly="448" lrx="559" lry="451" />
+            <zone xml:id="riga13art1" ulx="62" uly="468" lrx="563" lry="472" />
+            <zone xml:id="riga14art1" ulx="63" uly="491" lrx="563" lry="492" />
+            <zone xml:id="riga15art1" ulx="63" uly="512" lrx="563" lry="514" />
+            <zone xml:id="riga16art1" ulx="63" uly="532" lrx="562" lry="536" />
+            <zone xml:id="riga17art1" ulx="63" uly="555" lrx="563" lry="557" />
+            <zone xml:id="riga18art1" ulx="63" uly="578" lrx="564" lry="580" />
+            <zone xml:id="riga19art1" ulx="64" uly="598" lrx="559" lry="603" />
+            <zone xml:id="riga20art1" ulx="64" uly="620" lrx="563" lry="623" />
+            <zone xml:id="riga21art1" ulx="67" uly="642" lrx="559" lry="644" />
+            <zone xml:id="riga22art1" ulx="66" uly="663" lrx="563" lry="666" />
+            <zone xml:id="riga23art1" ulx="64" uly="683" lrx="564" lry="689" />
+            <zone xml:id="riga24art1" ulx="65" uly="708" lrx="564" lry="713" />
+            <zone xml:id="riga25art1" ulx="65" uly="727" lrx="564" lry="733" />
+            <zone xml:id="riga26art1" ulx="66" uly="748" lrx="565" lry="753" />
+            <zone xml:id="riga27art1" ulx="65" uly="773" lrx="560" lry="777" />
+            <zone xml:id="riga28art1" ulx="65" uly="793" lrx="565" lry="797" />
+            <zone xml:id="riga29art1" ulx="64" uly="813" lrx="564" lry="819" />
+            <zone xml:id="riga30art1" ulx="64" uly="834" lrx="565" lry="842" />
+            <zone xml:id="riga31art1" ulx="64" uly="856" lrx="567" lry="861" />
+            <zone xml:id="riga32art1" ulx="64" uly="879" lrx="567" lry="883" />
+            <zone xml:id="riga33art1" ulx="65" uly="901" lrx="256" lry="905" />
+            <zone xml:id="riga34art1" ulx="93" uly="921" lrx="564" lry="928" />
+            <zone xml:id="riga35art1" ulx="65" uly="947" lrx="560" lry="951" />
+            <zone xml:id="riga36art1" ulx="65" uly="965" lrx="566" lry="971" />
+            <zone xml:id="riga37art1" ulx="64" uly="989" lrx="565" lry="992" />
+            <zone xml:id="riga38art1" ulx="65" uly="1008" lrx="567" lry="1017" />
+            <zone xml:id="riga39art1" ulx="63" uly="1029" lrx="566" lry="1036" />
+            <zone xml:id="riga40art1" ulx="66" uly="1053" lrx="560" lry="1060" />
+            <zone xml:id="riga41art1" ulx="63" uly="1074" lrx="565" lry="1080" />
+            <zone xml:id="riga42art1" ulx="64" uly="1097" lrx="564" lry="1101" />
+            <zone xml:id="riga43art1" ulx="64" uly="1119" lrx="561" lry="1125" />
+            <zone xml:id="riga44art1" ulx="65" uly="1140" lrx="567" lry="1145" />
+            <zone xml:id="riga45art1" ulx="64" uly="1158" lrx="564" lry="1168" />
+            <zone xml:id="riga46art1" ulx="67" uly="1183" lrx="559" lry="1191" />
+            <zone xml:id="riga47art1" ulx="64" uly="1205" lrx="565" lry="1211" />
+            <zone xml:id="riga48art1" ulx="64" uly="1224" lrx="565" lry="1233" />
+            <zone xml:id="riga49art1" ulx="64" uly="1245" lrx="564" lry="1256" />
+            <zone xml:id="riga50art1" ulx="63" uly="1271" lrx="559" lry="1278" />
+            <zone xml:id="riga51art1" ulx="63" uly="1288" lrx="564" lry="1296" />
+            <zone xml:id="riga52art1" ulx="63" uly="1312" lrx="563" lry="1320" />
+            <zone xml:id="riga53art1" ulx="64" uly="1334" lrx="563" lry="1340" />
+            <zone xml:id="riga54art1" ulx="62" uly="1355" lrx="562" lry="1360" />
+            <zone xml:id="riga55art1" ulx="64" uly="1376" lrx="557" lry="1384" />
+            <zone xml:id="riga56art1" ulx="63" uly="1397" lrx="558" lry="1407" />
+            <zone xml:id="riga57art1" ulx="63" uly="1421" lrx="561" lry="1426" />
+            <zone xml:id="riga58art1" ulx="64" uly="1441" lrx="558" lry="1449" />
+            <zone xml:id="riga59art1" ulx="66" uly="1460" lrx="559" lry="1469" />
+            <zone xml:id="riga60art1" ulx="65" uly="1483" lrx="556" lry="1491" />
+            <zone xml:id="riga61art1" ulx="66" uly="1506" lrx="556" lry="1513" />
+            <zone xml:id="riga62art1" ulx="65" uly="1524" lrx="558" lry="1534" />
+            <zone xml:id="riga63art1" ulx="583" uly="106" lrx="1084" lry="113" />
+            <zone xml:id="riga64art1" ulx="582" uly="129" lrx="1085" lry="135" />
+            <zone xml:id="riga65art1" ulx="581" uly="148" lrx="1083" lry="154" />
+            <zone xml:id="riga66art1" ulx="583" uly="172" lrx="1083" lry="178" />
+            <zone xml:id="riga67art1" ulx="583" uly="192" lrx="1087" lry="198" />
+            <zone xml:id="riga68art1" ulx="582" uly="209" lrx="1083" lry="220" />
+            <zone xml:id="riga69art1" ulx="583" uly="232" lrx="1076" lry="242" />
+            <zone xml:id="riga70art1" ulx="583" uly="256" lrx="1078" lry="263" />
+            <zone xml:id="riga71art1" ulx="583" uly="279" lrx="1083" lry="283" />
+            <zone xml:id="riga72art1" ulx="583" uly="300" lrx="1084" lry="305" />
+            <zone xml:id="riga73art1" ulx="582" uly="318" lrx="1081" lry="324" />
+            <zone xml:id="riga74art1" ulx="583" uly="341" lrx="1083" lry="345" />
+            <zone xml:id="riga75art1" ulx="582" uly="364" lrx="1078" lry="369" />
+            <zone xml:id="riga76art1" ulx="584" uly="386" lrx="1083" lry="391" />
+            <zone xml:id="riga77art1" ulx="583" uly="405" lrx="1083" lry="412" />
+            <zone xml:id="riga78art1" ulx="584" uly="425" lrx="1079" lry="433" />
+            <zone xml:id="riga79art1" ulx="584" uly="449" lrx="1079" lry="455" />
+            <zone xml:id="riga80art1" ulx="583" uly="470" lrx="1082" lry="477" />
+            <zone xml:id="riga81art1" ulx="585" uly="493" lrx="1083" lry="497" />
+            <zone xml:id="riga82art1" ulx="583" uly="514" lrx="1084" lry="521" />
+            <zone xml:id="riga83art1" ulx="586" uly="535" lrx="1081" lry="541" />
+            <zone xml:id="riga84art1" ulx="583" uly="557" lrx="1084" lry="563" />
+            <zone xml:id="riga85art1" ulx="586" uly="580" lrx="1079" lry="585" />
+            <zone xml:id="riga86art1" ulx="586" uly="601" lrx="1083" lry="606" />
+            <zone xml:id="riga87art1" ulx="585" uly="622" lrx="1083" lry="628" />
+            <zone xml:id="riga88art1" ulx="585" uly="643" lrx="1086" lry="648" />
+            <zone xml:id="riga89art1" ulx="583" uly="666" lrx="1080" lry="672" />
+            <zone xml:id="riga90art1" ulx="585" uly="684" lrx="1085" lry="691" />
+            <zone xml:id="riga91art1" ulx="583" uly="707" lrx="1082" lry="712" />
+            <zone xml:id="riga92art1" ulx="586" uly="728" lrx="1085" lry="733" />
+            <zone xml:id="riga93art1" ulx="585" uly="750" lrx="1083" lry="756" />
+            <zone xml:id="riga94art1" ulx="587" uly="773" lrx="1085" lry="779" />
+            <zone xml:id="riga95art1" ulx="586" uly="793" lrx="1082" lry="800" />
+            <zone xml:id="riga96art1" ulx="586" uly="817" lrx="1079" lry="822" />
+            <zone xml:id="riga97art1" ulx="586" uly="838" lrx="1083" lry="844" />
+            <zone xml:id="riga98art1" ulx="586" uly="861" lrx="1082" lry="866" />
+            <zone xml:id="riga99art1" ulx="584" uly="881" lrx="1082" lry="886" />
+            <zone xml:id="riga100art1" ulx="587" uly="903" lrx="1083" lry="908" />
+            <zone xml:id="riga101art1" ulx="585" uly="922" lrx="1083" lry="928" />
+            <zone xml:id="riga102art1" ulx="585" uly="947" lrx="1079" lry="951" />
+            <zone xml:id="riga103art1" ulx="584" uly="968" lrx="1083" lry="972" />
+            <zone xml:id="riga104art1" ulx="583" uly="988" lrx="1077" lry="995" />
+            <zone xml:id="riga105art1" ulx="585" uly="1012" lrx="1081" lry="1016" />
+            <zone xml:id="riga106art1" ulx="585" uly="1032" lrx="1079" lry="1039" />
+            <zone xml:id="riga107art1" ulx="587" uly="1055" lrx="1078" lry="1060" />
+            <zone xml:id="riga108art1" ulx="584" uly="1076" lrx="1083" lry="1081" />
+            <zone xml:id="riga109art1" ulx="584" uly="1098" lrx="1079" lry="1103" />
+            <zone xml:id="riga110art1" ulx="585" uly="1119" lrx="1080" lry="1125" />
+            <zone xml:id="riga111art1" ulx="584" uly="1140" lrx="819" lry="1146" />
+            <zone xml:id="riga112art1" ulx="610" uly="1159" lrx="1081" lry="1169" />
+            <zone xml:id="riga113art1" ulx="583" uly="1180" lrx="1077" lry="1190" />
+            <zone xml:id="riga114art1" ulx="583" uly="1204" lrx="1079" lry="1211" />
+            <zone xml:id="riga115art1" ulx="584" uly="1224" lrx="1080" lry="1232" />
+            <zone xml:id="riga116art1" ulx="584" uly="1249" lrx="1078" lry="1255" />
+            <zone xml:id="riga117art1" ulx="583" uly="1290" lrx="1077" lry="1296" />
+            <zone xml:id="riga118art1" ulx="582" uly="1308" lrx="1075" lry="1318" />
+            <zone xml:id="riga119art1" ulx="583" uly="1331" lrx="1071" lry="1341" />
+            <zone xml:id="riga120art1" ulx="582" uly="1356" lrx="1074" lry="1362" />
+            <zone xml:id="riga121art1" ulx="581" uly="1377" lrx="1071" lry="1384" />
+            <zone xml:id="riga122art1" ulx="583" uly="1397" lrx="1069" lry="1406" />
+            <zone xml:id="riga123art1" ulx="582" uly="1420" lrx="1072" lry="1426" />
+            <zone xml:id="riga124art1" ulx="582" uly="1440" lrx="1075" lry="1449" />
+            <zone xml:id="riga125art1" ulx="579" uly="1461" lrx="1076" lry="1469" />
+            <zone xml:id="riga126art1" ulx="580" uly="1484" lrx="1007" lry="1490" />
+
+
+
+
+
+           </surface>
+
+           <!--PAGINA 375-->
+           <surface xml:id="pag375" n="375">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0005.jpg' width='1186.4px' height='1747.4px' />
+            <zone xml:id="riga1art2" ulx="615" uly="1220" lrx="1090" lry="1229" />
+            <zone xml:id="riga2art2" ulx="588" uly="1241" lrx="1090" lry="1250" />
+            <zone xml:id="riga3art2" ulx="590" uly="1264" lrx="1085" lry="1272" />
+            <zone xml:id="riga4art2" ulx="587" uly="1284" lrx="1084" lry="1293" />
+            <zone xml:id="riga5art2" ulx="588" uly="1308" lrx="1091" lry="1314" />
+            <zone xml:id="riga6art2" ulx="589" uly="1328" lrx="1089" lry="1336" />
+            <zone xml:id="riga7art2" ulx="588" uly="1350" lrx="1084" lry="1356" />
+            <zone xml:id="riga8art2" ulx="589" uly="1371" lrx="1089" lry="1377" />
+            <zone xml:id="riga9art2" ulx="589" uly="1394" lrx="1091" lry="1398" />
+            <zone xml:id="riga10art2" ulx="590" uly="1414" lrx="1088" lry="1420" />
+            <zone xml:id="riga11art2" ulx="590" uly="1435" lrx="1091" lry="1441" />
+            <zone xml:id="riga12art2" ulx="590" uly="1458" lrx="1091" lry="1463" />
+            <zone xml:id="riga13art2" ulx="592" uly="1477" lrx="1085" lry="1485" />
+            <zone xml:id="riga14art2" ulx="590" uly="1500" lrx="1092" lry="1506" />
+            <zone xml:id="riga15art2" ulx="593" uly="1523" lrx="1092" lry="1528" />
+            <zone xml:id="riga16art2" ulx="593" uly="1542" lrx="1090" lry="1549" />
+
+
+
+
+
+           </surface>
+
+           <!--PAGINA 376-->
+           <surface xml:id="pag376" n="376">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0006.jpg' width='1183.4px' height='1744.4px' />
+            <zone xml:id="riga17art2" ulx="147" uly="138" lrx="643" lry="144" />
+            <zone xml:id="riga18art2" ulx="147" uly="160" lrx="647" lry="165" />
+            <zone xml:id="riga19art2" ulx="147" uly="181" lrx="646" lry="186" />
+            <zone xml:id="riga20art2" ulx="146" uly="201" lrx="649" lry="207" />
+            <zone xml:id="riga21art2" ulx="149" uly="221" lrx="647" lry="230" />
+            <zone xml:id="riga22art2" ulx="151" uly="246" lrx="529" lry="249" />
+            <zone xml:id="riga23art2" ulx="175" uly="263" lrx="647" lry="270" />
+            <zone xml:id="riga24art2" ulx="150" uly="289" lrx="645" lry="294" />
+            <zone xml:id="riga25art2" ulx="151" uly="308" lrx="641" lry="317" />
+            <zone xml:id="riga26art2" ulx="148" uly="334" lrx="646" lry="337" />
+            <zone xml:id="riga27art2" ulx="150" uly="357" lrx="646" lry="359" />
+            <zone xml:id="riga28art2" ulx="148" uly="378" lrx="647" lry="381" />
+            <zone xml:id="riga29art2" ulx="147" uly="397" lrx="646" lry="403" />
+            <zone xml:id="riga30art2" ulx="147" uly="420" lrx="643" lry="425" />
+            <zone xml:id="riga31art2" ulx="147" uly="439" lrx="645" lry="445" />
+            <zone xml:id="riga32art2" ulx="147" uly="461" lrx="646" lry="465" />
+            <zone xml:id="riga33art2" ulx="148" uly="484" lrx="646" lry="489" />
+            <zone xml:id="riga34art2" ulx="149" uly="505" lrx="641" lry="509" />
+            <zone xml:id="riga35art2" ulx="149" uly="525" lrx="647" lry="531" />
+            <zone xml:id="riga36art2" ulx="150" uly="548" lrx="647" lry="553" />
+            <zone xml:id="riga37art2" ulx="151" uly="570" lrx="641" lry="574" />
+            <zone xml:id="riga38art2" ulx="149" uly="593" lrx="647" lry="596" />
+            <zone xml:id="riga39art2" ulx="148" uly="614" lrx="646" lry="617" />
+            <zone xml:id="riga40art2" ulx="147" uly="635" lrx="647" lry="641" />
+            <zone xml:id="riga41art2" ulx="146" uly="653" lrx="649" lry="661" />
+            <zone xml:id="riga42art2" ulx="148" uly="677" lrx="642" lry="685" />
+            <zone xml:id="riga43art2" ulx="147" uly="701" lrx="649" lry="705" />
+            <zone xml:id="riga44art2" ulx="147" uly="717" lrx="646" lry="726" />
+            <zone xml:id="riga45art2" ulx="148" uly="744" lrx="647" lry="747" />
+            <zone xml:id="riga46art2" ulx="149" uly="765" lrx="263" lry="767" />
+            <zone xml:id="riga47art2" ulx="174" uly="782" lrx="647" lry="790" />
+            <zone xml:id="riga48art2" ulx="148" uly="802" lrx="650" lry="811" />
+            <zone xml:id="riga49art2" ulx="149" uly="828" lrx="647" lry="831" />
+            <zone xml:id="riga50art2" ulx="148" uly="849" lrx="647" lry="855" />
+            <zone xml:id="riga51art2" ulx="148" uly="870" lrx="643" lry="877" />
+            <zone xml:id="riga52art2" ulx="147" uly="893" lrx="643" lry="899" />
+            <zone xml:id="riga53art2" ulx="149" uly="913" lrx="650" lry="922" />
+            <zone xml:id="riga54art2" ulx="150" uly="935" lrx="645" lry="942" />
+            <zone xml:id="riga55art2" ulx="147" uly="957" lrx="608" lry="961" />
+            <zone xml:id="riga56art2" ulx="176" uly="975" lrx="645" lry="985" />
+            <zone xml:id="riga57art2" ulx="149" uly="998" lrx="643" lry="1008" />
+            <zone xml:id="riga58art2" ulx="151" uly="1022" lrx="647" lry="1027" />
+            <zone xml:id="riga59art2" ulx="147" uly="1044" lrx="646" lry="1051" />
+            <zone xml:id="riga60art2" ulx="148" uly="1065" lrx="647" lry="1070" />
+            <zone xml:id="riga61art2" ulx="149" uly="1089" lrx="647" lry="1093" />
+            <zone xml:id="riga62art2" ulx="149" uly="1089" lrx="647" lry="1093" />
+            <zone xml:id="riga63art2" ulx="150" uly="1129" lrx="647" lry="1133" />
+            <zone xml:id="riga64art2" ulx="149" uly="1152" lrx="647" lry="1158" />
+            <zone xml:id="riga65art2" ulx="150" uly="1174" lrx="650" lry="1177" />
+            <zone xml:id="riga66art2" ulx="146" uly="1197" lrx="647" lry="1199" />
+            <zone xml:id="riga67art2" ulx="147" uly="1216" lrx="648" lry="1221" />
+            <zone xml:id="riga68art2" ulx="149" uly="1234" lrx="648" lry="1241" />
+            <zone xml:id="riga69art2" ulx="149" uly="1260" lrx="651" lry="1264" />
+            <zone xml:id="riga70art2" ulx="147" uly="1278" lrx="649" lry="1285" />
+            <zone xml:id="riga71art2" ulx="149" uly="1299" lrx="239" lry="1306" />
+            <zone xml:id="riga72art2" ulx="175" uly="1322" lrx="649" lry="1328" />
+            <zone xml:id="riga73art2" ulx="149" uly="1345" lrx="651" lry="1351" />
+            <zone xml:id="riga74art2" ulx="149" uly="1364" lrx="648" lry="1370" />
+            <zone xml:id="riga75art2" ulx="149" uly="1388" lrx="652" lry="1393" />
+            <zone xml:id="riga76art2" ulx="149" uly="1409" lrx="651" lry="1417" />
+            <zone xml:id="riga77art2" ulx="148" uly="1430" lrx="649" lry="1438" />
+            <zone xml:id="riga78art2" ulx="667" uly="136" lrx="1161" lry="142" />
+            <zone xml:id="riga79art2" ulx="666" uly="156" lrx="1161" lry="163" />
+            <zone xml:id="riga80art2" ulx="667" uly="179" lrx="1160" lry="184" />
+            <zone xml:id="riga81art2" ulx="667" uly="198" lrx="1162" lry="206" />
+            <zone xml:id="riga82art2" ulx="665" uly="220" lrx="1154" lry="230" />
+            <zone xml:id="riga88art2" ulx="663" uly="243" lrx="1158" lry="249" />
+            <zone xml:id="riga89art2" ulx="667" uly="263" lrx="1153" lry="274" />
+            <zone xml:id="riga90art2" ulx="665" uly="286" lrx="1157" lry="295" />
+            <zone xml:id="riga91art2" ulx="667" uly="307" lrx="1158" lry="314" />
+            <zone xml:id="riga92art2" ulx="666" uly="331" lrx="1154" lry="337" />
+            <zone xml:id="riga93art2" ulx="667" uly="350" lrx="1159" lry="359" />
+            <zone xml:id="riga94art2" ulx="667" uly="373" lrx="1158" lry="380" />
+            <zone xml:id="riga95art2" ulx="668" uly="395" lrx="1155" lry="403" />
+            <zone xml:id="riga96art2" ulx="665" uly="418" lrx="1153" lry="425" />
+            <zone xml:id="riga97art2" ulx="666" uly="437" lrx="1159" lry="442" />
+            <zone xml:id="riga98art2" ulx="664" uly="460" lrx="1158" lry="464" />
+            <zone xml:id="riga99art2" ulx="667" uly="482" lrx="1160" lry="487" />
+            <zone xml:id="riga100art2" ulx="666" uly="504" lrx="1157" lry="508" />
+            <zone xml:id="riga101art2" ulx="667" uly="527" lrx="1155" lry="531" />
+            <zone xml:id="riga102art2" ulx="666" uly="548" lrx="1157" lry="552" />
+            <zone xml:id="riga103art2" ulx="667" uly="567" lrx="1152" lry="575" />
+            <zone xml:id="riga104art2" ulx="667" uly="590" lrx="1154" lry="597" />
+            <zone xml:id="riga105art2" ulx="667" uly="612" lrx="819" lry="617" />
+            <zone xml:id="riga106art2" ulx="695" uly="629" lrx="1156" lry="639" />
+            <zone xml:id="riga107art2" ulx="667" uly="652" lrx="1155" lry="661" />
+            <zone xml:id="riga108art2" ulx="667" uly="676" lrx="1159" lry="683" />
+            <zone xml:id="riga109art2" ulx="665" uly="698" lrx="1158" lry="704" />
+            <zone xml:id="riga110art2" ulx="667" uly="719" lrx="1158" lry="724" />
+            <zone xml:id="riga111art2" ulx="667" uly="740" lrx="1160" lry="745" />
+            <zone xml:id="riga112art2" ulx="667" uly="761" lrx="1155" lry="768" />
+            <zone xml:id="riga113art2" ulx="668" uly="782" lrx="1159" lry="788" />
+            <zone xml:id="riga114art2" ulx="667" uly="807" lrx="1156" lry="813" />
+            <zone xml:id="riga115art2" ulx="667" uly="827" lrx="1159" lry="829" />
+            <zone xml:id="riga116art2" ulx="667" uly="848" lrx="1159" lry="852" />
+            <zone xml:id="riga117art2" ulx="668" uly="870" lrx="1160" lry="873" />
+            <zone xml:id="riga118art2" ulx="668" uly="888" lrx="1162" lry="895" />
+            <zone xml:id="riga119art2" ulx="670" uly="908" lrx="1162" lry="916" />
+            <zone xml:id="riga120art2" ulx="667" uly="936" lrx="1159" lry="939" />
+            <zone xml:id="riga121art2" ulx="669" uly="957" lrx="1160" lry="961" />
+            <zone xml:id="riga122art2" ulx="667" uly="978" lrx="1157" lry="984" />
+            <zone xml:id="riga123art2" ulx="668" uly="998" lrx="1159" lry="1003" />
+            <zone xml:id="riga124art2" ulx="666" uly="1021" lrx="1160" lry="1025" />
+            <zone xml:id="riga125art2" ulx="666" uly="1043" lrx="1163" lry="1049" />
+            <zone xml:id="riga126art2" ulx="668" uly="1059" lrx="1155" lry="1069" />
+            <zone xml:id="riga127art2" ulx="667" uly="1083" lrx="1159" lry="1088" />
+            <zone xml:id="riga128art2" ulx="667" uly="1104" lrx="1159" lry="1111" />
+            <zone xml:id="riga129art2" ulx="667" uly="1124" lrx="1159" lry="1130" />
+            <zone xml:id="riga130art2" ulx="667" uly="1146" lrx="1155" lry="1153" />
+            <zone xml:id="riga131art2" ulx="666" uly="1169" lrx="1159" lry="1173" />
+            <zone xml:id="riga132art2" ulx="668" uly="1188" lrx="1155" lry="1200" />
+            <zone xml:id="riga133art2" ulx="667" uly="1212" lrx="1158" lry="1217" />
+            <zone xml:id="riga134art2" ulx="669" uly="1234" lrx="1159" lry="1240" />
+            <zone xml:id="riga135art2" ulx="670" uly="1255" lrx="864" lry="1259" />
+            <zone xml:id="riga136art2" ulx="695" uly="1274" lrx="1156" lry="1280" />
+            <zone xml:id="riga137art2" ulx="669" uly="1297" lrx="1157" lry="1302" />
+            <zone xml:id="riga138art2" ulx="669" uly="1316" lrx="1158" lry="1324" />
+            <zone xml:id="riga139art2" ulx="669" uly="1340" lrx="1159" lry="1344" />
+            <zone xml:id="riga140art2" ulx="668" uly="1363" lrx="1153" lry="1368" />
+            <zone xml:id="riga141art2" ulx="671" uly="1381" lrx="1159" lry="1388" />
+            <zone xml:id="riga142art2" ulx="667" uly="1405" lrx="1149" lry="1411" />
+            <zone xml:id="riga143art2" ulx="669" uly="1426" lrx="1151" lry="1432" />
+            <zone xml:id="riga144art2" ulx="669" uly="1448" lrx="1152" lry="1455" />
+            <zone xml:id="riga145art2" ulx="668" uly="1470" lrx="1155" lry="1475" />
+            <zone xml:id="riga146art2" ulx="670" uly="1492" lrx="1152" lry="1497" />
+            <zone xml:id="riga147art2" ulx="668" uly="1511" lrx="1156" lry="1517" />
+            <zone xml:id="riga148art2" ulx="667" uly="1532" lrx="1158" lry="1539" />
+            <zone xml:id="riga149art2" ulx="668" uly="1554" lrx="1157" lry="1560" />
+
+
+
+
+
+            </surface>
+            
+           <!--PAGINA377-->
+           <surface xml:id="pag377" n="377">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0007.jpg' width='1162.4px' height='1720.4px' />
+            <zone xml:id="riga150art2" ulx="50" uly="139" lrx="551" lry="140" />
+            <zone xml:id="riga151art2" ulx="47" uly="160" lrx="550" lry="161" />
+            <zone xml:id="riga152art2" ulx="47" uly="180" lrx="551" lry="186" />
+            <zone xml:id="riga153art2" ulx="47" uly="201" lrx="546" lry="206" />
+            <zone xml:id="riga154art2" ulx="49" uly="224" lrx="548" lry="226" />
+            <zone xml:id="riga155art2" ulx="48" uly="246" lrx="547" lry="249" />
+            <zone xml:id="riga157art2" ulx="48" uly="265" lrx="548" lry="270" />
+            <zone xml:id="riga158art2" ulx="49" uly="286" lrx="549" lry="292" />
+            <zone xml:id="riga159art2" ulx="48" uly="307" lrx="551" lry="312" />
+            <zone xml:id="riga160art2" ulx="48" uly="328" lrx="548" lry="335" />
+            <zone xml:id="riga161art2" ulx="49" uly="350" lrx="547" lry="354" />
+            <zone xml:id="riga162art2" ulx="48" uly="371" lrx="334" lry="375" />
+
+
+
+           </surface>
+
+           <!--PAGINA 391-->
+           <surface xml:id="pag391" n="391">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0021.jpg' width='1228.4px' height='1744.4px' />
+            <zone xml:id="riga1biblio1" ulx="631" uly="796" lrx="1107" lry="807" />
+            <zone xml:id="riga2biblio1" ulx="605" uly="820" lrx="1110" lry="829" />
+            <zone xml:id="riga3biblio1" ulx="606" uly="845" lrx="1103" lry="853" />
+            <zone xml:id="riga4biblio1" ulx="607" uly="867" lrx="1103" lry="875" />
+            <zone xml:id="riga5biblio1" ulx="607" uly="889" lrx="1110" lry="896" />
+            <zone xml:id="riga6biblio1" ulx="608" uly="910" lrx="1111" lry="917" />
+            <zone xml:id="riga7biblio1" ulx="608" uly="933" lrx="1107" lry="940" />
+            <zone xml:id="riga8biblio1" ulx="610" uly="953" lrx="1104" lry="962" />
+            <zone xml:id="riga9biblio1" ulx="609" uly="975" lrx="1109" lry="982" />
+            <zone xml:id="riga10biblio1" ulx="607" uly="997" lrx="1110" lry="1002" />
+            <zone xml:id="riga11biblio1" ulx="608" uly="1020" lrx="1105" lry="1027" />
+            <zone xml:id="riga12biblio1" ulx="610" uly="1042" lrx="1109" lry="1047" />
+            <zone xml:id="riga13biblio1" ulx="610" uly="1061" lrx="1110" lry="1069" />
+            <zone xml:id="riga14biblio1" ulx="607" uly="1085" lrx="1104" lry="1093" />
+            <zone xml:id="riga15biblio1" ulx="609" uly="1108" lrx="1103" lry="1114" />
+            <zone xml:id="riga16biblio1" ulx="610" uly="1129" lrx="1108" lry="1134" />
+            <zone xml:id="riga17biblio1" ulx="611" uly="1151" lrx="1110" lry="1156" />
+            <zone xml:id="riga18biblio1" ulx="608" uly="1172" lrx="1111" lry="1177" />
+            <zone xml:id="riga19biblio1" ulx="609" uly="1194" lrx="1111" lry="1198" />
+            <zone xml:id="riga20biblio1" ulx="611" uly="1213" lrx="1105" lry="1221" />
+            <zone xml:id="riga21biblio1" ulx="611" uly="1237" lrx="1110" lry="1243" />
+            <zone xml:id="riga22biblio1" ulx="610" uly="1259" lrx="1107" lry="1265" />
+            <zone xml:id="riga23biblio1" ulx="608" uly="1281" lrx="993" lry="1285" />
+            <zone xml:id="riga24biblio1" ulx="635" uly="1299" lrx="1110" lry="1306" />
+            <zone xml:id="riga25biblio1" ulx="610" uly="1324" lrx="1108" lry="1328" />
+            <zone xml:id="riga26biblio1" ulx="611" uly="1344" lrx="1108" lry="1350" />
+            <zone xml:id="riga27biblio1" ulx="609" uly="1367" lrx="1110" lry="1369" />
+            <zone xml:id="riga28biblio1" ulx="609" uly="1386" lrx="1108" lry="1390" />
+            <zone xml:id="riga29biblio1" ulx="611" uly="1408" lrx="1106" lry="1415" />
+            <zone xml:id="riga30biblio1" ulx="610" uly="1430" lrx="1104" lry="1437" />
+            <zone xml:id="riga31biblio1" ulx="608" uly="1455" lrx="1107" lry="1457" />
+            <zone xml:id="riga32biblio1" ulx="607" uly="1476" lrx="1103" lry="1479" />
+            <zone xml:id="riga33biblio1" ulx="611" uly="1498" lrx="1112" lry="1500" />
+            <zone xml:id="riga34biblio1" ulx="609" uly="1517" lrx="1107" lry="1523" />
+            <zone xml:id="riga35biblio1" ulx="608" uly="1541" lrx="1107" lry="1545" />
+
+
+
+
+            </surface>
+
+            <!--PAGINA 392-->
+            <surface xml:id="pag392" n="392">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0022.jpg' width='1233.4px' height='1752.4px' />
+            <zone xml:id="riga36biblio1" ulx="161" uly="129" lrx="663" lry="136" />
+            <zone xml:id="riga37biblio1" ulx="159" uly="149" lrx="660" lry="156" />
+            <zone xml:id="riga38biblio1" ulx="163" uly="173" lrx="664" lry="180" />
+            <zone xml:id="riga39biblio1" ulx="163" uly="193" lrx="663" lry="200" />
+            <zone xml:id="riga40biblio1" ulx="162" uly="217" lrx="657" lry="225" />
+            <zone xml:id="riga41biblio1" ulx="163" uly="237" lrx="661" lry="243" />
+            <zone xml:id="riga42biblio1" ulx="163" uly="261" lrx="661" lry="265" />
+            <zone xml:id="riga43biblio1" ulx="163" uly="281" lrx="663" lry="287" />
+            <zone xml:id="riga44biblio1" ulx="163" uly="304" lrx="659" lry="309" />
+            <zone xml:id="riga45biblio1" ulx="163" uly="323" lrx="665" lry="328" />
+            <zone xml:id="riga46biblio1" ulx="161" uly="345" lrx="663" lry="350" />
+            <zone xml:id="riga47biblio1" ulx="162" uly="366" lrx="666" lry="373" />
+            <zone xml:id="riga48biblio1" ulx="162" uly="387" lrx="662" lry="398" />
+            <zone xml:id="riga49biblio1" ulx="161" uly="410" lrx="665" lry="417" />
+            <zone xml:id="riga50biblio1" ulx="162" uly="433" lrx="662" lry="441" />
+            <zone xml:id="riga51biblio1" ulx="163" uly="455" lrx="664" lry="459" />
+            <zone xml:id="riga52biblio1" ulx="159" uly="477" lrx="660" lry="483" />
+            <zone xml:id="riga53biblio1" ulx="164" uly="499" lrx="659" lry="504" />
+            <zone xml:id="riga54biblio1" ulx="163" uly="520" lrx="665" lry="523" />
+            <zone xml:id="riga55biblio1" ulx="162" uly="541" lrx="275" lry="545" />
+            <zone xml:id="riga57biblio1" ulx="187" uly="561" lrx="661" lry="570" />
+            <zone xml:id="riga58biblio1" ulx="163" uly="585" lrx="663" lry="589" />
+            <zone xml:id="riga59biblio1" ulx="160" uly="608" lrx="667" lry="611" />
+            <zone xml:id="riga60biblio1" ulx="166" uly="629" lrx="444" lry="631" />
+
+
+
+            </surface>
+
+            <!--PAGINA 392-->
+            <surface xml:id="bibliografia2_surface" n="392">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0022.jpg' width='1233.4px' height='1752.4px' />
+            <zone xml:id="riga1biblio2" ulx="190" uly="729" lrx="660" lry="739" />
+            <zone xml:id="riga2biblio2" ulx="163" uly="748" lrx="667" lry="756" />
+            <zone xml:id="riga3biblio2" ulx="161" uly="773" lrx="664" lry="776" />
+            <zone xml:id="riga4biblio2" ulx="163" uly="797" lrx="661" lry="803" />
+            <zone xml:id="riga5biblio2" ulx="163" uly="817" lrx="663" lry="826" />
+            <zone xml:id="riga6biblio2" ulx="163" uly="839" lrx="664" lry="843" />
+            <zone xml:id="riga7biblio2" ulx="162" uly="860" lrx="660" lry="868" />
+            <zone xml:id="riga8biblio2" ulx="164" uly="881" lrx="290" lry="887" />
+            <zone xml:id="riga9biblio2" ulx="191" uly="903" lrx="663" lry="909" />
+            <zone xml:id="riga10biblio2" ulx="164" uly="927" lrx="665" lry="932" />
+            <zone xml:id="riga11biblio2" ulx="166" uly="947" lrx="667" lry="952" />
+            <zone xml:id="riga12biblio2" ulx="166" uly="965" lrx="668" lry="974" />
+            <zone xml:id="riga13biblio2" ulx="163" uly="988" lrx="663" lry="996" />
+            <zone xml:id="riga14biblio2" ulx="162" uly="1012" lrx="664" lry="1017" />
+            <zone xml:id="riga15biblio2" ulx="163" uly="1032" lrx="666" lry="1038" />
+            <zone xml:id="riga16biblio2" ulx="163" uly="1052" lrx="667" lry="1059" />
+            <zone xml:id="riga17biblio2" ulx="167" uly="1074" lrx="668" lry="1082" />
+            <zone xml:id="riga18biblio2" ulx="163" uly="1098" lrx="667" lry="1100" />
+            <zone xml:id="riga19biblio2" ulx="165" uly="1119" lrx="664" lry="1124" />
+            <zone xml:id="riga20biblio2" ulx="163" uly="1140" lrx="662" lry="1146" />
+            <zone xml:id="riga21biblio2" ulx="166" uly="1162" lrx="666" lry="1165" />
+            <zone xml:id="riga22biblio2" ulx="163" uly="1182" lrx="670" lry="1188" />
+            <zone xml:id="riga23biblio2" ulx="160" uly="1225" lrx="661" lry="1232" />
+            <zone xml:id="riga24biblio2" ulx="163" uly="1246" lrx="668" lry="1251" />
+            <zone xml:id="riga25biblio2" ulx="164" uly="1268" lrx="601" lry="1275" />
+            <zone xml:id="riga26biblio2" ulx="280" uly="1292" lrx="503" lry="1296" />
+            <zone xml:id="riga27biblio2" ulx="163" uly="1318" lrx="668" lry="1323" />
+            <zone xml:id="riga28biblio2" ulx="164" uly="1336" lrx="670" lry="1345" />
+            <zone xml:id="riga29biblio2" ulx="163" uly="1357" lrx="666" lry="1367" />
+            <zone xml:id="riga30biblio2" ulx="163" uly="1381" lrx="666" lry="1387" />
+            <zone xml:id="riga31biblio2" ulx="163" uly="1402" lrx="665" lry="1407" />
+            <zone xml:id="riga32biblio2" ulx="162" uly="1423" lrx="668" lry="1429" />
+            <zone xml:id="riga33biblio2" ulx="162" uly="1448" lrx="664" lry="1452" />
+            <zone xml:id="riga34biblio2" ulx="163" uly="1468" lrx="215" lry="1470" />
+            <zone xml:id="riga35biblio2" ulx="192" uly="1486" lrx="663" lry="1498" />
+            <zone xml:id="riga36biblio2" ulx="163" uly="1511" lrx="670" lry="1514" />
+            <zone xml:id="riga37biblio2" ulx="165" uly="1534" lrx="666" lry="1537" />
+            <zone xml:id="riga38biblio2" ulx="164" uly="1552" lrx="669" lry="1556" />
+            <zone xml:id="riga39biblio2" ulx="682" uly="130" lrx="1183" lry="134" />
+            <zone xml:id="riga40biblio2" ulx="680" uly="152" lrx="1182" lry="156" />
+            <zone xml:id="riga41biblio2" ulx="682" uly="171" lrx="1180" lry="180" />
+            <zone xml:id="riga42biblio2" ulx="682" uly="196" lrx="1186" lry="198" />
+            <zone xml:id="riga43biblio2" ulx="682" uly="214" lrx="1179" lry="223" />
+            <zone xml:id="riga44biblio2" ulx="682" uly="238" lrx="1176" lry="244" />
+            <zone xml:id="riga45biblio2" ulx="683" uly="257" lrx="1181" lry="261" />
+            <zone xml:id="riga46biblio2" ulx="681" uly="278" lrx="1183" lry="282" />
+            <zone xml:id="riga47biblio2" ulx="681" uly="300" lrx="1180" lry="304" />
+            <zone xml:id="riga48biblio2" ulx="679" uly="322" lrx="1182" lry="328" />
+            <zone xml:id="riga49biblio2" ulx="682" uly="343" lrx="1180" lry="348" />
+            <zone xml:id="riga50biblio2" ulx="683" uly="366" lrx="1181" lry="370" />
+            <zone xml:id="riga51biblio2" ulx="683" uly="386" lrx="941" lry="391" />
+            <zone xml:id="riga52biblio2" ulx="711" uly="404" lrx="1185" lry="414" />
+            <zone xml:id="riga53biblio2" ulx="684" uly="428" lrx="1184" lry="435" />
+            <zone xml:id="riga54biblio2" ulx="683" uly="452" lrx="1180" lry="459" />
+            <zone xml:id="riga55biblio2" ulx="687" uly="472" lrx="1181" lry="480" />
+            <zone xml:id="riga56biblio2" ulx="685" uly="494" lrx="1183" lry="500" />
+            <zone xml:id="riga57biblio2" ulx="684" uly="515" lrx="1185" lry="523" />
+            <zone xml:id="riga58biblio2" ulx="684" uly="536" lrx="1183" lry="544" />
+            <zone xml:id="riga59biblio2" ulx="681" uly="560" lrx="938" lry="564" />
+            <zone xml:id="riga60biblio2" ulx="747" uly="582" lrx="1075" lry="592" />
+            <zone xml:id="riga61biblio2" ulx="764" uly="604" lrx="1125" lry="611" />
+            <zone xml:id="riga62biblio2"  ulx="747" uly="624" lrx="1125" lry="634" />
+            <zone xml:id="riga63biblio2" ulx="747" uly="645" lrx="1127" lry="653" />
+            <zone xml:id="riga64biblio2" ulx="745" uly="670" lrx="1127" lry="673" />
+            <zone xml:id="riga65biblio2" ulx="955" uly="704" lrx="1141" lry="712" />
+            <zone xml:id="riga66biblio2" ulx="712" uly="731" lrx="1180" lry="739" />
+            <zone xml:id="riga67biblio2" ulx="686" uly="753" lrx="1111" lry="758" />
+
+
+
+            </surface>
+
+            <!--PAGINA 393-->
+            <surface xml:id="pag393" n="393">
+
+            <graphic url='Vol4-1879-2-S2-F100_pages-to-jpg-0023.jpg' width='1231.4px' height='1739.4px' />
+            <zone xml:id="riga1not1" ulx="103" uly="169" lrx="587" lry="173" />
+            <zone xml:id="riga2not1" ulx="79" uly="188" lrx="587" lry="193" />
+            <zone xml:id="riga3not1" ulx="76" uly="208" lrx="589" lry="212" />
+            <zone xml:id="riga4not1" ulx="80" uly="228" lrx="589" lry="232" />
+            <zone xml:id="riga5not1" ulx="81" uly="248" lrx="584" lry="252" />
+            <zone xml:id="riga6not1" ulx="77" uly="265" lrx="277" lry="269" />
+            <zone xml:id="riga7not1" ulx="107" uly="283" lrx="587" lry="287" />
+            <zone xml:id="riga8not1" ulx="80" uly="303" lrx="583" lry="310" />
+            <zone xml:id="riga9not1" ulx="79" uly="324" lrx="587" lry="328" />
+            <zone xml:id="riga10not1" ulx="83" uly="344" lrx="513" lry="347" />
+            <zone xml:id="riga11not1" ulx="102" uly="362" lrx="590" lry="365" />
+            <zone xml:id="riga12not1" ulx="82" uly="382" lrx="436" lry="386" />
+            <zone xml:id="riga13not1" ulx="130" uly="397" lrx="591" lry="405" />
+            <zone xml:id="riga14not1" ulx="130" uly="397" lrx="591" lry="405" />
+            <zone xml:id="riga15not1" ulx="83" uly="436" lrx="157" lry="445" />
+            <zone xml:id="riga16not1" ulx="134" uly="458" lrx="590" lry="463" />
+            <zone xml:id="riga17not1" ulx="83" uly="480" lrx="323" lry="482" />
+            <zone xml:id="riga18not1" ulx="133" uly="497" lrx="585" lry="506" />
+            <zone xml:id="riga19not1" ulx="84" uly="520" lrx="589" lry="523" />
+            <zone xml:id="riga20not1" ulx="83" uly="540" lrx="476" lry="544" />
+            <zone xml:id="riga21not1" ulx="133" uly="556" lrx="587" lry="563" />
+            <zone xml:id="riga22not1" ulx="85" uly="578" lrx="476" lry="579" />
+            <zone xml:id="riga23not1" ulx="130" uly="595" lrx="591" lry="599" />
+            <zone xml:id="riga24not1" ulx="83" uly="613" lrx="589" lry="619" />
+            <zone xml:id="riga25not1" ulx="85" uly="635" lrx="163" lry="639" />
+
+
+
+            </surface>
+
+            <!--PAGINA 393-->
+            <surface xml:id="notizia2_surface" n="393">
+
+            <zone xml:id="riga1not2" ulx="109" uly="676" lrx="586" lry="684" />
+            <zone xml:id="riga2not2" ulx="84" uly="694" lrx="587" lry="703" />
+            <zone xml:id="riga3not2" ulx="87" uly="717" lrx="525" lry="720" />
+            <zone xml:id="riga4not2" ulx="111" uly="733" lrx="593" lry="738" />
+            <zone xml:id="riga5not2" ulx="86" uly="753" lrx="404" lry="761" />
+
+
+
+            </surface>
+
+      </facsimile>
+
+      <text>
+            <body>
+                  <div type="journal" org="composite">
+
+                        <!--ARTICOLO 1-->
+                        <div type="article" n="1" xml:lang="it">
+                        <pb n="1" facs="#artcolo1" />
+                        <cb/>
+                        <head rend="uppercase">
+                              <lb facs="#titolo_art1"/>
+                        Riviste Italiane
+                        </head>
+                        
+                        <ab>
+                              <lb facs="#riga1_art1"/>
+Il giorno <date>5 maggio dell'anno corrente</date>, il <roleName>presidente della
+                              <lb facs="#riga2_art1"/>
+repubblica Argentina</roleName>, adempiendo ad un dovere preiscritto
+                              <lb facs="#riga3_art1"/>
+dalla costituzione, apriva solennemente il <orgName>congresso Argen-<lb break="no"/>
+                              <lb facs="#riga4_art1"/>
+tino</orgName> con un importante messaggio, nel quale è esposta e
+                              <lb facs="#riga5_art1"/>
+riassunta quasi in un quadro sintetico la situazione gene-<lb break="no"/>
+                              <lb facs="#riga6_art1"/>
+rale, economica e politica della nazione. Il signor<persName>Avella-<lb break="no"/>
+                              <lb facs="#riga7_art1"/>
+neda</persName>, <roleName>presidente della repubblica Argentina</roleName>, è uomo dotto,
+                              <lb facs="#riga8_art1"/>
+prudente, e valente oratore. E il suo recente messaggio è
+                              <lb facs="#riga9_art1"/>
+notevole nella parte che si riferisce alla situazione finan-<lb break="no"/>
+                              <lb facs="#riga10_art1"/>
+ziaria e politica del suo paese. La situazione interna della
+                              <lb facs="#riga11_art1"/>
+repubblica, dice l'<choice><abbr>A.</abbr><expan>Avellaneda</expan></choice>, è colorita con troppo ottimismo, per chi
+                              <lb facs="#riga12_art1"/>
+ricorda le insurrezioni frequenti delle provincie, talora con-<lb break="no"/>
+                              <lb facs="#riga13_art1"/>
+tro il <orgName>governo nazionale</orgName>, talora contro i governatori; del
+                              <lb facs="#riga14_art1"/>
+pari è deplorevole che il <roleName>presidente</roleName> <persName>Avellaneda</persName> consigli la
+                              <lb facs="#riga15_art1"/>
+pace col <placeName>Chilì</placeName>, senza che finora si sia potuta definire fra
+                              <lb facs="#riga16_art1"/>
+i due <orgName>Stati</orgName> la questone dei confini: questa situazione che
+                              <lb facs="#riga17_art1"/>
+non è la guerra, porta con sè tutte le conseguenze di un
+                              <lb facs="#riga18_art1"/>
+conflitto che può scoppiare da un momento all'altro. Ora
+                              <lb facs="#riga19_art1"/>
+gli interessi coloniali che il governo promuove, esigono an-<lb break="no"/>
+                              <lb facs="#riga20_art1"/>
+zitutto, per svolgersi e prosperare, che la repubblica sia in
+                              <lb facs="#riga21_art1"/>
+pace con tutti gli <orgName>Stati</orgName> vicini, e si estenda contro i sel-<lb break="no"/>
+                              <lb facs="#riga22_art1"/>
+vaggi del deserto. Tutti debbono desiderare che il <placeName>Chilì</placeName> e
+                              <lb facs="#riga23_art1"/>
+l'<placeName>Argentina</placeName>, due <orgName>Stati</orgName> limitrofi, a prestarsi uno scambievole
+                              <lb facs="#riga24_art1"/>
+aiuto nell'assetto economico e politico delle loro istituzioni,
+                              <lb facs="#riga25_art1"/>
+depongano le antiche ire e suggellino in un trattato la loro
+                              <lb facs="#riga26_art1"/>
+alleanza ed amicizia. Tutto ciò premesso, il sign. <persName>F.B.</persName> riporta
+                              <lb facs="#riga27_art1"/>
+quasi testualmente il discorso del presidente della <orgName>repub-<lb break="no"/>
+                              <lb facs="#riga28_art1"/>
+blica Argentina</orgName>sugli argomenti della finanza dello Stato,
+                              <lb facs="#riga29_art1"/>
+della emigrazione e della colonizzazione, non che dei nuovi
+                              <lb facs="#riga30_art1"/>
+territori nazionali che il governo è riuscito a strappare
+                              <lb facs="#riga31_art1"/>
+dalle mani del selvaggio per assoggettarle a coltivazione
+                              <lb facs="#riga32_art1"/>
+nell'interesse generale. Spigoliamo qualche dato interessante
+                              <lb facs="#riga33_art1"/>
+da questo documento.
+                              <lb facs="#riga34_art1"/>
+Le rendite nazionali produssero la quantità di <num>18,451,897</num>
+                              <lb facs="#riga35_art1"/>
+pezzi, ed erano state calcolate in <num>16,459,129</num> pezzi, risultando
+                              <lb facs="#riga36_art1"/>
+così per la prima volta nei calcoli dei preventivi il
+                              <lb facs="#riga37_art1"/>
+calcolo delle entrate superiore alla spesa reale. La rendita
+                              <lb facs="#riga38_art1"/>
+del <date>1878</date> supera di <num>3,628,000</num> pezzi quella dell’anno anteriore;
+                              <lb facs="#riga39_art1"/>
+il che equivale ad un aumento del ventiquattro e mezzo
+                              <lb facs="#riga40_art1"/>
+per cento. Il valore ufficiale della importazione ed esporta-<lb break="no"/>
+                              <lb facs="#riga41_art1"/>
+zione durante il <date>1878</date> è stato di <num>77,658,278</num> pezzi. Il debito
+                              <lb facs="#riga42_art1"/>
+consolidato tanto esterno che interno è stato amministrato
+                              <lb facs="#riga43_art1"/>
+col più grande scrupolo. Difatti durante l’anno <date>1878</date> fu am-<lb break="no"/>
+                              <lb facs="#riga44_art1"/>
+mortizzato per conto dei prestiti esteriori la somma di
+                              <lb facs="#riga45_art1"/>
+<num>2,066,000</num> pezzi, e per debito interno la quantità di <num>694,000</num>
+                              <lb facs="#riga46_art1"/>
+pezzi. Pagato il dividendo di luglio, il debito esterno ridu-<lb break="no"/>
+                              <lb facs="#riga47_art1"/>
+cevasi alla somma di <num>36,309,000</num> pezzi. E il debito esterno
+                              <lb facs="#riga48_art1"/>
+al <date>31 dicembre</date> ascendeva alla somma di <num>21,567,000</num> pezzi.
+                              <lb facs="#riga49_art1"/>
+Durante l’anno <date>1878</date> entrarono nello Stato <num>35,876</num> immigranti,
+                              <lb facs="#riga50_art1"/>
+cioè oltre <num>7000</num> più dell’anno precedente. Le cifre della im-
+                              <lb facs="#riga51_art1"/>
+migrazione sono anche più elevate per i primi mesi del
+                              <lb facs="#riga52_art1"/>
+corrente anno <date>1879</date>. A proposito di queste cifre si fanno le
+                              <lb facs="#riga53_art1"/>
+seguenti osservazioni che non sono senza importanza. Gli
+                              <lb facs="#riga54_art1"/>
+immigranti che arrivano nella <placeName>repubblica Argentina</placeName> sono
+                              <lb facs="#riga55_art1"/>
+quasi nella totalità agricoltori, e vengono associati in fami-<lb break="no"/>
+                              <lb facs="#riga56_art1"/>
+glie, lo che denota la loro intenzione di non voler ritor-<lb break="no"/>
+                              <lb facs="#riga57_art1"/>
+nare laddove partirono. Laddove non si vedono dedicati ad
+                              <lb facs="#riga58_art1"/>
+occupazioni parassite nelle città del littorale, ma si diffon-<lb break="no"/>
+                              <lb facs="#riga59_art1"/>
+dono in tutto il paese per consacrarsi precipuamente alla col-<lb break="no"/>
+                              <lb facs="#riga60_art1"/>
+tivazione del suolo. La presenza dell’immigrante ha già deter-<lb break="no"/>
+                              <lb facs="#riga61_art1"/>
+minato un gran fatto, cioè la introduzione di un nuovo pro-<lb break="no"/>
+                              <lb facs="#riga62_art1"/>
+dotto nello scambio universale. Oggi la repubblica importa ce-<lb break="no"/>
+                              <lb facs="#riga63_art1"/>
+reali sui mercati d’<placeName>Europa</placeName> e d'<placeName>America</placeName>, e i bastimenti carichi
+                              <lb facs="#riga64_art1"/>
+partono dalle colonie formate dall’immigrante europeo. Questo
+                              <lb facs="#riga65_art1"/>
+imponente commercio accenna a svolgersi rapidamente in
+                              <lb facs="#riga66_art1"/>
+grandi proporzioni che si possono calcolare in base a dati,
+                              <lb facs="#riga67_art1"/>
+raccolti qua e là, in difetto di una statistica completa. Il
+                              <lb facs="#riga68_art1"/>
+<date>12 aprile</date> dell’anno corrente si imbarcarono da <placeName>Rosario</placeName> per
+                              <lb facs="#riga69_art1"/>
+differenti porti d'<placeName>Europa</placeName>, sopra sei navi, quattromila cin-<lb break="no"/>
+                              <lb facs="#riga70_art1"/>
+quecento tonnellate di frumento. Il <orgName>governo Argentino</orgName> fo-<lb break="no"/>
+                              <lb facs="#riga71_art1"/>
+menta l’immigrazione a mezzo di agenti in <placeName>Europa</placeName>, i quali
+                              <lb facs="#riga72_art1"/>
+in tale occasioni possano stipulare contratti speciali cogli
+                              <lb facs="#riga73_art1"/>
+immigranti ; come fu fatto ultimamente coi russo-tedeschi
+                              <lb facs="#riga74_art1"/>
+e con quelli del Tirolo austriaco. Arrivati gli immigranti, la
+                              <lb facs="#riga75_art1"/>
+<orgName>commissione generale d’immigrazione</orgName> li distribuisce conve-<lb break="no"/>
+                              <lb facs="#riga76_art1"/>
+nientemente e li colloca in colonie stabilite, o nell’interno
+                              <lb facs="#riga77_art1"/>
+del paese. A dimostrare quanto siano considerevoli i lavori
+                              <lb facs="#riga78_art1"/>
+di cotesta commissione, basti che essa durante il <date>1878</date> di-<lb break="no"/>
+                              <lb facs="#riga79_art1"/>
+stribuì e collocò nelle quattordici provincie dello Stato quin-<lb break="no"/>
+                              <lb facs="#riga80_art1"/>
+dicimila settecento sei immigranti. La repubblica ha ancora
+                              <lb facs="#riga81_art1"/>
+vasti campi da offrire all’attività dell’immigrante, e la detta
+                              <lb facs="#riga82_art1"/>
+commissione ha avuto l’incarico di avviare l’immigrazione
+                              <lb facs="#riga83_art1"/>
+di preferenza ai territori di <placeName>Patagonia</placeName> e del <placeName>Chaco</placeName>, dove
+                              <lb facs="#riga84_art1"/>
+si è testò fondata una nuova colonia, sotto gli auspicii della
+                              <lb facs="#riga85_art1"/>
+maggiore prosperità. Il <placeName>Chaco</placeName> si presta al taglio di legna-<lb break="no"/>
+                              <lb facs="#riga86_art1"/>
+mi che si esportano in quantità considerevoli, di maniera
+                              <lb facs="#riga87_art1"/>
+che è stato necessario dettare apposito regolamento per
+                              <lb facs="#riga88_art1"/>
+evitare la completa distruzione dei boschi e far sì che la
+                              <lb facs="#riga89_art1"/>
+speculazione legittima contribuisca all’aumento della ren-<lb break="no"/>
+                              <lb facs="#riga90_art1"/>
+dita nazionale. Le colonie fondate, o sussidiate dal governo
+                              <lb facs="#riga91_art1"/>
+a forma di legge, sono dodici e formano altrettanti villaggi.
+                              <lb facs="#riga92_art1"/>
+Hanno una popolazione complessiva da nove a dodici mila
+                              <lb facs="#riga93_art1"/>
+abitanti, la quale fra due anni, cioè prima che compia il
+                              <lb facs="#riga94_art1"/>
+quinquennio dalla fondazione dei villaggi stessi, arriverà
+                              <lb facs="#riga95_art1"/>
+al doppio. — Fra esse colonie meritano speciale menzione
+                              <lb facs="#riga96_art1"/>
+quelle di <placeName>Santa Fè</placeName> che si compongono di circa trentadue-<lb break="no"/>
+                              <lb facs="#riga97_art1"/>
+mila abitanti e che ebbero nell’anno scorso un prodotto
+                              <lb facs="#riga98_art1"/>
+calcolato in due e mezzo a tre milioni di pezzi. — La ras-<lb break="no"/>
+                              <lb facs="#riga99_art1"/>
+segna del <roleName>presidente</roleName> <persName>Avellaneda</persName> termina col far notare
+                              <lb facs="#riga100_art1"/>
+che la repubblica ha anche aperto una nuova e vastissima
+                              <lb facs="#riga101_art1"/>
+fonte di immigrazione, cioè quella del nord di <placeName>Europa</placeName>. E'
+                              <lb facs="#riga102_art1"/>
+necessario fomentare questa corrente, anche per conside-<lb break="no"/>
+                              <lb facs="#riga103_art1"/>
+razioni di prudenza, e per stabilire determinati equilibri;
+                              <lb facs="#riga104_art1"/>
+laddove il <roleName>commissario di immigrazione</roleName> di <placeName>Europa</placeName> annun-
+                              <lb facs="#riga105_art1"/>
+ziava di recente che quella corrente sarebbe avviata colà
+                              <lb facs="#riga106_art1"/>
+senza altro sforzo che quello della facilitazione dei passaggi,
+                              <lb facs="#riga107_art1"/>
+con piccolissima spesa. — Il problema riguardante la de-<lb break="no"/>
+                              <lb facs="#riga108_art1"/>
+terminazione dei confini delle cinque nuove province nelle
+                              <lb facs="#riga109_art1"/>
+loro relazioni coi territori nazionali, è quasi risolto ; non
+                              <lb facs="#riga110_art1"/>
+rimanendo che segnare i limiti delle province limitrofe
+                              <lb facs="#riga111_art1"/>
+colle Missioni e col <placeName>Chaco</placeName>.
+                              <lb facs="#riga112_art1"/>
+Il signor <persName>F. B.</persName> a proposito di questo messaggio nota che
+                              <lb facs="#riga113_art1"/>
+fra gli <orgName>Stati</orgName> giovani d’<placeName>America</placeName> alcuni lottano per la con-
+                              <lb facs="#riga114_art1"/>
+servazione di un’ esistenza politica gravosa e difficile ; al-<lb break="no"/>
+                              <lb facs="#riga115_art1"/>
+tri invece attendono al consolidamento delle istituzioni
+                              <lb facs="#riga116_art1"/>
+proprie, conquistate con tanti sacrifici e tanta abnegazione
+                              <lb facs="#riga117_art1"/>
+per il trionfo dei generosi principii dell’indipendenza e della
+                              <lb facs="#riga118_art1"/>
+libertà. La <orgName>repubblica Argentina</orgName> è nel novero di questi
+                              <lb facs="#riga119_art1"/>
+<orgName>Stati</orgName> ai quali l’avvenire si presenta sotto lieti auspicii.
+                              <lb facs="#riga120_art1"/>
+Un governo che apertamente annunzia all’<placeName>Europa</placeName> di fo-<lb break="no"/>
+                              <lb facs="#riga121_art1"/>
+mentare l'immigrazione, assume senza dubbio una grande
+                              <lb facs="#riga122_art1"/>
+responsabilità, e verso l’<placeName>Europa</placeName> medesima e verso gli im-<lb break="no"/>
+                              <lb facs="#riga123_art1"/>
+migranti arruolati per suo conto. Tanta responsabilità im-<lb break="no"/>
+                              <lb facs="#riga124_art1"/>
+pone il dovere a chi sta a capo della <orgName>repubblica Argentina</orgName>
+                              <lb facs="#riga125_art1"/>
+di fondare un governo che si faccia rispettare e stimare;
+                              <lb facs="#riga126_art1"/>
+leggi savie che procurino un buon assetto finanziario ed
+                              <lb facs="#riga127_art1"/>
+economico nelle provincie e nelle colonie nascenti.
+                        </ab>
+           </div>
+                       
+
+                        <!--ARTICOLO 2-->
+                        <div type="article" n="2" xml:lang="it">
+                        <pb n="2" facs="#artcolo2" />
+                        <cb n ="1"/>
+                        <head rend="uppercase">
+                              <lb facs="#titolo_art2"/>
+                        I poveri in Inghilterra
+                        </head>
+                        <ab>
+                              <lb facs="#riga1_art2"/>
+Uno studio sulle cagioni della miseria in <placeName>Inghilterra</placeName>, e
+                              <lb facs="#riga2_art2"/>
+dei provvedimenti presi a combatterla, sarebbe utile assai
+                              <lb facs="#riga3_art2"/>
+pei molti ammaestramenti che ci darebbe. E indispensa-
+                              <lb facs="#riga4_art2"/>
+bile poi a chiunque voglia farsi una qualche idea della sto-<lb break="no"/>
+                              <lb facs="#riga5_art2"/>
+ria della società e della civiltà inglese. Quando si pensa che,
+                              <lb facs="#riga6_art2"/>
+dopo aver fatto immensi sforzi per diminuire il numero dei
+                              <lb facs="#riga7_art2"/>
+poveri e di esserci riuscita in modo soddisfacente, l’<placeName>Inghil-<lb break="no"/>
+                              <lb facs="#riga8_art2"/>
+terra</placeName> nel <date>1878</date> spendeva ancora <num>7,688,650</num> lire sterline per
+                              <lb facs="#riga9_art2"/>
+soccorrere <num>729,089</num> poveri in una popolazione di <num>24,760,000</num>
+                              <lb facs="#riga10_art2"/>
+abitanti, si capirà facilmente l’importanza del fatto. Se si
+                              <lb facs="#riga11_art2"/>
+aggiunge poi che nel <date>1849</date> questi poveri erano <num>1,088,659</num> in
+                              <lb facs="#riga12_art2"/>
+una popolazione di <num>17,534,000</num> abitanti, si avrà un’idea dei
+                              <lb facs="#riga13_art2"/>
+‘grandi risultati che si ottennero, e degli sforzi che si do--<lb break="no"/>
+                              <lb facs="#riga14_art2"/>
+vettero fare negli ultimi <num>30</num> anni, per ridurre i poveri a poco
+                              <lb facs="#riga15_art2"/>
+più della metà in una popolazione assai aumentata. Nel
+                              <lb facs="#riga16_art2"/>
+<date>1849</date> l’<placeName>Inghilterra</placeName> contava poco meno di' un povero per
+                              <lb facs="#riga17_art2"/>
+ogni <num>17</num> abitanti; oggi ne conta uno per <num>34</num>. La pro-<lb break="no"/>
+                              <lb facs="#riga18_art2"/>
+porzione era discesa da <num>6,2</num> per cento a <num>2,9</num>. * Questo
+                              <lb facs="#riga19_art2"/>
+si deve in parto alla crescente ’ prosperità del popolo
+                              <lb facs="#riga20_art2"/>
+inglese, ma assai piu ai molti provvedimenti che ha preso.
+                              <lb facs="#riga21_art2"/>
+Per ora vogliamo fermarci al principalissimo fra di essi,
+                              <lb facs="#riga22_art2"/>
+quello cioè che riguarda la tassa dei poveri.
+                              <lb facs="#riga23_art2"/>
+Sino dai tempi della <roleName>regina</roleName> <persName>Elisabetta</persName>, l’<placeName>Inghilterra</placeName> ha
+                              <lb facs="#riga24_art2"/>
+adottato una massima, la quale ha contribuito non poco a
+                              <lb facs="#riga25_art2"/>
+determinare il carattere della sua storia e della sua so-<lb break="no"/>
+                              <lb facs="#riga26_art2"/>
+cietà.— La questua e l’elemosina sono per regola generale
+                              <lb facs="#riga27_art2"/>
+proibite. Ogni uomo il quale si trovi privo di lavoro e di
+                              <lb facs="#riga28_art2"/>
+pane, ha per legge il diritto di essere soccorso dallo Stato
+                              <lb facs="#riga29_art2"/>
+a spese dei contribuenti, e può far valere questo diritto
+                              <lb facs="#riga30_art2"/>
+per mezzo dei tribunali. — La ragione che ha fatto adot-<lb break="no"/>
+                              <lb facs="#riga31_art2"/>
+tare questa massima e persistervi dall’ anno <date>1601</date> fino ad
+                              <lb facs="#riga32_art2"/>
+oggi, non è stata una ragione di sola filantropia, ma assai
+                              <lb facs="#riga33_art2"/>
+più di civile prudenza. Si era osservato, e l’osservazione è
+                              <lb facs="#riga34_art2"/>
+stata negli anni successivi sempre riconfermata, che abban-<lb break="no"/>
+                              <lb facs="#riga35_art2"/>
+donare i poveri alla carità privata, alla elemosina, non solo
+                              <lb facs="#riga36_art2"/>
+aumenta la miseria, il vagabondaggio, l’ozio, ma anche la
+                              <lb facs="#riga37_art2"/>
+corruzione. Molte inchiesto hanno anche recentemente pro-
+                              <lb facs="#riga38_art2"/>
+vato che alcune città inglesi nelle quali abbondavano, anzi
+                              <lb facs="#riga39_art2"/>
+eccedevano le istituzioni di carità, erano subito divenute
+                              <lb facs="#riga40_art2"/>
+ritrovo di oziosi, giocatori, ubbriachi e peggio, i quali
+                              <lb facs="#riga41_art2"/>
+tutti venivano soccorsi con danno della morale pubblica e
+                              <lb facs="#riga42_art2"/>
+anche della sicurezza e prosperità del paese. Questa dun-<lb break="no"/>
+                              <lb facs="#riga43_art2"/>
+que fu la ragione per cui l’<placeName>Inghilterra</placeName>, che in <placeName>Italia</placeName> ci è
+                              <lb facs="#riga44_art2"/>
+descritta sempre come il paese del lasciar fare e del lasciar
+                              <lb facs="#riga45_art2"/>
+passare, si decise a proibire la limosina e ad imporre la
+                              <lb facs="#riga46_art2"/>
+carità legale.
+                              <lb facs="#riga47_art2"/>
+Per più di un secolo il sistema dette eccellenti risultati.
+                              <lb facs="#riga48_art2"/>
+Ma dalla metà del secolo scorso in poi si cominciò a notare
+                              <lb facs="#riga49_art2"/>
+che insieme con la prosperità nazionale crescente c’ era un
+                              <lb facs="#riga50_art2"/>
+aumento di poveri, e quindi un aumento della tassa per
+                              <lb facs="#riga51_art2"/>
+soccorrerli, così rapido, così spaventoso da mettere in pen-<lb break="no"/>
+                              <lb facs="#riga52_art2"/>
+siero per l’ avvenire dell’ <placeName>Inghilterra</placeName>. Nessun esercito nemico,
+                              <lb facs="#riga53_art2"/>
+dice il <persName>Fawcett</persName>, mise mai l’ <placeName>Inghilterra</placeName> a così grave
+                              <lb facs="#riga54_art2"/>
+pericolo, così presso alla sua rovina, come questo inaspet-<lb break="no"/>
+                              <lb facs="#riga55_art2"/>
+tato rapido, costante, irresistibile aumento di poveri. **
+                              <lb facs="#riga56_art2"/>
+E non creda il lettore che queste sieno frasi. Abbiamo
+                              <lb facs="#riga57_art2"/>
+detto che nel <date>1849</date> v’ era un povero ogni <num>17</num> abitanti, ep-<lb break="no"/>
+                              <lb facs="#riga58_art2"/>
+pure già i nuovi provvedimenti erano stati presi, e i poveri
+                              <lb facs="#riga59_art2"/>
+erano in grande diminuzione da più di <num>10</num> anni. I <roleName>commis-<lb break="no"/>
+                              <lb facs="#riga60_art2"/>
+sari</roleName> della grande inchiesta del <date>1832</date> trovarono allora qualche
+                              <lb facs="#riga61_art2"/>
+proprietario che con <num>500</num> lire di rendita ne doveva pagare
+                              <lb facs="#riga62_art2"/>
+<num>250</num> per la tassa dei poveri, ed oltre di ciò era obbligato a
+                              <lb facs="#riga63_art2"/>
+dare lavoro ad alcuni di essi, il che gli portava un’ altra
+                              <lb facs="#riga64_art2"/>
+perdita annuale di <num>100</num> lire. Così su <num>500</num> lire d’ entrata ne
+                              <lb facs="#riga65_art2"/>
+pagava <num>350</num> pei poveri. *** Certo non tutti erano aggravati a
+                              <lb facs="#riga66_art2"/>
+questo segno, ma 1’ aumento crescente della tassa era tale
+                              <lb facs="#riga67_art2"/>
+che fra poco il paese non avrebbe potuto più sopportarlo.
+                              <lb facs="#riga68_art2"/>
+Nello stesso tempo si trovò che molti poveri ricevevano un
+                              <lb facs="#riga69_art2"/>
+sussidio giornaliero superiore alla mercede degli <roleName>operai</roleName> che
+                              <lb facs="#riga70_art2"/>
+lavoravano, ed erano soccorse molte famiglie che avevano
+                              <lb facs="#riga71_art2"/>
+da vivere.
+                              <lb facs="#riga72_art2"/>
+Quale era la ragione di tutto ciò? Dal <date>1601</date> al <date>1750</date> era
+                              <lb facs="#riga73_art2"/>
+stato rispettato il carattere primitivo della legge. — Proibire
+                              <lb facs="#riga74_art2"/>
+la limosina; soccorrere col procurare lavoro a chi non era
+                              <lb facs="#riga75_art2"/>
+inabile; non potendo riuscirvi, chiamarli nei ricoveri di
+                              <lb facs="#riga76_art2"/>
+mendicità (<foreign xml:lang="eng">workhouses</foreign>) e farli lavorare; chiamarvi anche,
+                              <lb facs="#riga77_art2"/>
+più che si poteva, gl’ inabili al lavoro. Ridurre al minimo
+                              <lb facs="#riga78_art2"/>
+possibile i soccorsi a domicilio, o per meglio dire impedirne
+                              <lb facs="#riga79_art2"/>
+ogni abuso, giacché nè sopprimerli nè troppo ridurli è
+                              <lb facs="#riga80_art2"/>
+possibile. A poco a poco dal <date>1750</date> in poi prevalse la pietà.
+                              <lb facs="#riga81_art2"/>
+La <foreign xml:lang="eng">workhouse</foreign> parve una carcere ingiustamente imposta
+                              <lb facs="#riga82_art2"/>
+al povero. Cominciarono lasciti colossali per istituzioni pri-<lb break="no"/>
+                              <lb facs="#riga83_art2"/>
+vate di pubblica beneficenza, delle quali l’<placeName>Inghilterra</placeName> (non-<lb break="no"/>
+                              <lb facs="#riga84_art2"/>
+ostante la tassa dei poveri) è più ricca d’ ogni altra na-<lb break="no"/>
+                              <lb facs="#riga85_art2"/>
+zione. La pubblica opinione fece poi pressione sul governo,
+                              <lb facs="#riga86_art2"/>
+che fece votare leggi per le quali i sussidi a domicilio
+                              <lb facs="#riga87_art2"/>
+crebbero, mentre le <foreign xml:lang="eng">workhouses</foreign> venivano da molti abban-
+                              <lb facs="#riga88_art2"/>
+donate. Subito crebbero allora i poveri e la tassa; ognuno
+                              <lb facs="#riga89_art2"/>
+volle sussidio e molti per averlo abbandonarono il lavoro
+                              <lb facs="#riga90_art2"/>
+fino a che il paese fu talmente aggravato di tasse, tal-<lb break="no"/>
+                              <lb facs="#riga91_art2"/>
+mente minacciato dai poveri, che incominciò il grido d’al-<lb break="no"/>
+                              <lb facs="#riga92_art2"/>
+larme; la pubblica opinione rinsavì e venne finalmente la
+                              <lb facs="#riga93_art2"/>
+riforma del <date>1834</date>, che è stata poi rafforzata più volte da
+                              <lb facs="#riga94_art2"/>
+nuovi atti del <orgName>parlamento</orgName>. Questa riforma riconduce la
+                              <lb facs="#riga95_art2"/>
+legge ai suoi primi principii. Non limosina nè privata,
+                              <lb facs="#riga96_art2"/>
+nè legale; ma lavoro quando è possibile, anche lavoro improduttivo
+                              <lb facs="#riga97_art2"/>
+nella <foreign xml:lang="eng">workhouse</foreign>, purché non s’ incoraggino mai
+                              <lb facs="#riga98_art2"/>
+1’ ozio ed il vagabondaggio per nessuna ragione, in nes-<lb break="no"/>
+                              <lb facs="#riga99_art2"/>
+sun modo. Ridurre i soccorsi a domicilio, ai casi stretta-<lb break="no"/>
+                              <lb facs="#riga100_art2"/>
+mente giustificati.
+                              <lb facs="#riga101_art2"/>
+Gli effetti di questa legge furono mirabili. La tassa co-<lb break="no"/>
+                              <lb facs="#riga102_art2"/>
+minciò subito a diminuire insieme coi poveri. Furono ispe-<lb break="no"/>
+                              <lb facs="#riga103_art2"/>
+zionate e migliorate le <foreign xml:lang="eng">workhouses</foreign> ; se ne costruirono delle
+                              <lb facs="#riga104_art2"/>
+altre. Si separarono gli adulti dai giovanetti, che andarono
+                              <lb facs="#riga105_art2"/>
+alle scuole connesse colle ioorkhouses ; si separarono i più
+                              <lb facs="#riga106_art2"/>
+dai meno corrotti, e i soccorsi a domicilio (<foreign xml:lang="eng">out-door reliefs</foreign>)
+                              <lb facs="#riga107_art2"/>
+diminuirono assai. La carità privata, istruita dalla espe-
+                              <lb facs="#riga108_art2"/>
+rienza, seguì lo stesso indirizzo : sussidio solo agli impotenti
+                              <lb facs="#riga109_art2"/>
+e agli altri istruzione e lavoro. Ogni anno il <foreign xml:lang="eng">Local Gocern-<lb break="no"/>
+                              <lb facs="#riga110_art2"/>
+ment Board</foreign> pubblica i suoi reports, i quali dimostrano i
+                              <lb facs="#riga111_art2"/>
+resultati ottenuti. I poveri, che nel <date>1849</date> erano già discesi
+                              <lb facs="#riga112_art2"/>
+a -<num>1,088,659</num> in una popolazione di <num>17,534,000</num>, discesero nel
+                              <lb facs="#riga113_art2"/>
+<date>1859</date> a <num>865,446</num> in una popolazione salita a <num>19,578,000</num>. Dal
+                              <lb facs="#riga114_art2"/>
+<date>1869</date> al <date>71</date>, essendo anni di crisi commerciale e di cattiva
+                              <lb facs="#riga115_art2"/>
+raccolta, i poveri salirono di nuovo, ascendendo a poco più
+                              <lb facs="#riga116_art2"/>
+di <num>1,000,000</num>, in una popolazione che nel <date>71</date> era di <num>22,700,000</num>
+                              <lb facs="#riga117_art2"/>
+circa. Ciò nonostante i poveri che nel <date>1849</date> erano stati in pro-<lb break="no"/>
+                              <lb facs="#riga118_art2"/>
+porzione di <num>6,2</num> ogni cento abitanti, furono nel <date>1871</date> solo <num>4,6</num>
+                              <lb facs="#riga119_art2"/>
+per cento. E poi ricominciò subito la diminuzione che fu
+                              <lb facs="#riga120_art2"/>
+continua fino al <date>1877</date>, quando si ebbero <num>719,949</num> poveri su
+                              <lb facs="#riga121_art2"/>
+<num>24,460,000</num> abitanti, cioè <num>2,9</num> per cento. L’anno <date>1878</date> fu an-<lb break="no"/>
+                              <lb facs="#riga122_art2"/>
+ch'esso di crisi commerciale e i poveri salirono a <num>729,089</num>;
+                              <lb facs="#riga123_art2"/>
+ma la popolazione essendo salita anch’ essa a <num>24,760,000</num>,
+                              <lb facs="#riga125_art2"/>
+furon sempre <num>2,9</num> per cento. La spesa era andata anch’essa
+                              <lb facs="#riga126_art2"/>
+diminuendo e fu nell’anno <date>1871-72</date> di <num>8,007,403</num> sterline, di-<lb break="no"/>
+                              <lb facs="#riga127_art2"/>
+scese nel <date>1875-76</date> a <num>7,335,858</num> per salire nel <date>1877-78</date> a <num>7,688,650</num>.
+                              <lb facs="#riga128_art2"/>
+Nè c’ è da maravigliarsi punto di questo aumento se ri-<lb break="no"/>
+                              <lb facs="#riga129_art2"/>
+cordiamo le crisi commerciali e la cessazione di lavoro che
+                              <lb facs="#riga130_art2"/>
+negli ultimi anni così spaventosamente desolarono alcune
+                              <lb facs="#riga131_art2"/>
+contee dell’ <placeName>Inghilterra</placeName>.
+                              <lb facs="#riga132_art2"/>
+Ci duole di non potere qui esporre al <roleName>lettore</roleName> quello che
+                              <lb facs="#riga133_art2"/>
+è avvenuto nella <placeName>Scozia</placeName> e nell’ <placeName>Irlanda</placeName>; ma il libro del
+                              <lb facs="#riga134_art2"/>
+<persName>Fawcett</persName> dimostra che, seguendo colà vie diverse, si è finito
+                              <lb facs="#riga135_art2"/>
+col venire alle stesse conclusioni e prendere i medesimi
+                              <lb facs="#riga136_art2"/>
+provvedimenti. Anche in <placeName>Australia</placeName>, dove tutto farebbe cre-<lb break="no"/>
+                              <lb facs="#riga137_art2"/>
+dere che non si dovesse avere il pauperismo, appena si è
+                              <lb facs="#riga138_art2"/>
+cominciato con la carità male intesa, sotto forma di limo-<lb break="no"/>
+                              <lb facs="#riga139_art2"/>
+sina, subito i poveri sono andati moltiplicando rapidamen-<lb break="no"/>
+                              <lb facs="#riga140_art2"/>
+te; quindi già si pensa a provvedimenti legislativi. In so-<lb break="no"/>
+                              <lb facs="#riga141_art2"/>
+stanza il pauperismo esiste in tutti i paesi della terra, e
+                              <lb facs="#riga142_art2"/>
+da per tutto richiede provvedimenti energici e molti sacri-<lb break="no"/>
+                              <lb facs="#riga143_art2"/>
+fici. L’abbandonarlo a sé stesso ed alla carità privata, seuza
+                              <lb facs="#riga144_art2"/>
+altri provvedimenti, non fa che accrescerlo, demoralizzarlo
+                              <lb facs="#riga145_art2"/>
+demoralizzando la società intera. I provvedimenti possono
+                              <lb facs="#riga146_art2"/>
+essere diversi, ma la norma è sempre la stessa : spingere
+                              <lb facs="#riga147_art2"/>
+e, potendo,- costringere al lavoro. Proibire l’ elemosina e
+                              <lb facs="#riga148_art2"/>
+l’accattonaggio. Aiutare coloro che senza colpa restano, dopo*
+                              <lb facs="#riga149_art2"/>
+tutto ciò, privi di mezzi. Questo aiuto si dà in mille modi,
+                              <lb facs="#riga150_art2"/>
+con mille istituzioni e legislazioni diverse. Noi siamo tra i
+                              <lb facs="#riga151_art2"/>
+popoli civili quelli che abbiamo organizzato 1’ elemosina,
+                              <lb facs="#riga152_art2"/>
+l’accattonaggio ed il vagabondaggio su più larga scala.
+                              <lb facs="#riga153_art2"/>
+I privati da una parte, e dall’altra le opere pie ed il clero
+                             <lb facs="#riga154_art2"/>
+l'hanno a gara in quest’ opera demolitrice, a cui non manca
+                             <lb facs="#riga155_art2"/>
+di tanto in tanto 1’ aiuto del governo. Quali ne saranno
+                             <lb facs="#riga156_art2"/>
+le conseguenze? Continueremo ad essere la terra classica
+                             <lb facs="#riga157_art2"/>
+degli accattoni e degli analfabeti.
+</ab>
+
+</div>
+
+
+<!--BIBLIOGRAFIA 1-->
+<div type="article" n="1" xml:lang="it">
+      <pb n="1" facs="#bibliografia1"/>
+<cb n="1"/>
+<head rend="uppercase">
+
+      <lb facs="#biblio1titolo"/>
+      Dall'Italia. - Ricordi, Studi ed Escursioni.
+      <lb/>
+      <persName>Paul David Fischer</persName> -<placeName>Berlino</placeName>
+      <date>1879</date>
+</head>
+
+<ab>
+                          <lb facs="#riga1_biblio1"/>
+Fu buon pensiero quello che mosse il <roleName>dottor</roleName> <persName>Fischer</persName> di
+                          <lb facs="#riga2_biblio1"/>
+<placeName>Berlino</placeName> a raccogliere in un volume questi suoi scritti di
+                          <lb facs="#riga3_biblio1"/>
+vario argomento, parte ancora inediti, parte già pubbli-<lb break="no"/>
+                          <lb facs="#riga4_biblio1"/>
+cati qua e là nelle riviste letterarie di <placeName>Germania</placeName>. Certa-<lb break="no"/>
+                          <lb facs="#riga5_biblio1"/>
+mente non hanno tutti lo stesso valore ed interesse, e forse
+                          <lb facs="#riga6_biblio1"/>
+alcuni si potevano anche addirittura lasciar fuori, senza
+                          <lb facs="#riga7_biblio1"/>
+scapito del libro; ma in complesso, sono lavori che hanno
+                          <lb facs="#riga8_biblio1"/>
+pregi di forma e di sostanza. Fra i quali ci pare princi-<lb break="no"/>
+                          <lb facs="#riga9_biblio1"/>
+palissimo la temperanza ne’ giudizi, che, a dir vero, non è
+                          <lb facs="#riga10_biblio1"/>
+sempre facile trovare nei libri degli stranieri sull’ <placeName>Italia</placeName>
+                          <lb facs="#riga11_biblio1"/>
+contemporanea. L’A. conosce assai bene ed ama sincera-<lb break="no"/>
+                          <lb facs="#riga12_biblio1"/>
+mente il nostro paese ; però, come non eccede quasi mai
+                          <lb facs="#riga13_biblio1"/>
+nelle lodi, così non tralascia di accennare con urbanità ciò
+                          <lb facs="#riga14_biblio1"/>
+che vi trova degno di biasimo o suscettibile di migliora-<lb break="no"/>
+                          <lb facs="#riga15_biblio1"/>
+mento, sì rispetto alla vita politica come rispetto ai costu-<lb break="no"/>
+                          <lb facs="#riga16_biblio1"/>
+mi e alle consuetudini. Nè meno giusto ed imparziale si
+                          <lb facs="#riga17_biblio1"/>
+mostra nei giudizi intorno alle nostre opere storiche e
+                          <lb facs="#riga18_biblio1"/>
+letterarie che prende in esame : il che spiega come i suoi
+                          <lb facs="#riga19_biblio1"/>
+articoli di critica che si pubblicano nel Magazin <foreign xml:lang="de">für die
+                          <lb facs="#riga2_biblio1"/>
+Literatur des Auslandes</foreign> (di cui egli è da molti anni assi-<lb break="no"/>
+                          <lb facs="#riga21_biblio1"/>
+duo <roleName>collaboratore</roleName>) siano cercati e letti con vivo interesse
+                          <lb facs="#riga22_biblio1"/>
+e tenuti in molto conto da tutti coloro che amano seguire
+                          <lb facs="#riga23_biblio1"/>
+il movimento intellettuale del nostro paese.
+                          <lb facs="#riga24_biblio1"/>
+Il volume, del quale prendiamo a discorrere, è diviso,
+                          <lb facs="#riga25_biblio1"/>
+come indica il titolo, in tre parti: nella prima (pag. <num>1-153</num>)
+                          <lb facs="#riga26_biblio1"/>
+abbiamo i ricordi di due viaggi fatti dall’A. nell’anno <date>1861</date>,
+                          <lb facs="#riga27_biblio1"/>
+uno in <placeName>Sicilia</placeName>, ove si trattenne a lungo, l’altro da <placeName>Roma</placeName> a
+                          <lb facs="#riga28_biblio1"/>
+<placeName>Ravenna</placeName>, in carrozza, passando per <placeName>Terni</placeName>, <placeName>Foligno</placeName>, <placeName>Assisi</placeName>,
+                          <lb facs="#riga29_biblio1"/>
+<placeName>Perugia</placeName>, ecc., ecc. La descrizione dei luoghi è spesso in-<lb break="no"/>
+                          <lb facs="#riga30_biblio1"/>
+terrotta da opportune riminiscenze storiche, da schiari-<lb break="no"/>
+                          <lb facs="#riga31_biblio1"/>
+menti sulle opere d’ arte, e da argute considerazioni
+                          <lb facs="#riga32_biblio1"/>
+sugli usi popolari. E se da un lato il lungo periodo tra-<lb break="no"/>
+                          <lb facs="#riga33_biblio1"/>
+scorso dal giorno in cui il viaggio ebbe luogo diminuisce
+                          <lb facs="#riga34_biblio1"/>
+l’attrattiva e il diletto della lettura, dall’altro però le pa-<lb break="no"/>
+                          <lb facs="#riga35_biblio1"/>
+gine esatte e coscienziose del <persName>Fischer</persName> permettono d’ isti-<lb break="no"/>
+                          <lb facs="#riga36_biblio1"/>
+tuire dei confronti fra la <placeName>Sicilia</placeName> del <date>1861</date>, uscita appena
+                          <lb facs="#riga37_biblio1"/>
+dal dominio borbonico, e la <placeName>Sicilia</placeName> d’oggi. Di gran lunga
+                          <lb facs="#riga38_biblio1"/>
+più importante ò tuttavia la seconda parte (pag. 153-275),
+                          <lb facs="#riga39_biblio1"/>
+dove si contengono gli Studi : tutti d’ argomento storico,
+                          <lb facs="#riga40_biblio1"/>
+scritti con diligenza, e ricchi di non volgare dottrina. Particolarmente
+                          <lb facs="#riga41_biblio1"/>
+notevole ci sembra il primo, intitolato <placeName>Roma</placeName>
+                          <lb facs="#riga42_biblio1"/>
+nel Medio Evo, che l’A. pubblicò alcuni anni addietro per
+                          <lb facs="#riga43_biblio1"/>
+richiamare l’attenzione degli studiosi su questa importante
+                          <lb facs="#riga44_biblio1"/>
+materia, prima che fosse compiuta l’opera classica del <persName>Gregorovius</persName>.
+                          <lb facs="#riga45_biblio1"/>
+Gli articoli che il signor <persName>Fischer</persName> ha raccolto
+                          <lb facs="#riga46_biblio1"/>
+nelle ultime pagine del volume (pag. <num>275-420</num>), sotto il nome
+                          <lb facs="#riga47_biblio1"/>
+di Escursioni, riguardano parte questioni politiche e sociali
+                          <lb facs="#riga48_biblio1"/>
+(p. e. : « La questione finanziaria, » « La prova del fuoco,»
+                          <lb facs="#riga49_biblio1"/>
+che si riferisce alla nostra guerra del <date>1866</date>, « L’istruzione
+                          <lb facs="#riga50_biblio1"/>
+popolare in <placeName>Italia</placeName>, » « L’A. B. C. in <placeName>Italia</placeName>, » ecc.), parte importanti
+                          <lb facs="#riga51_biblio1"/>
+pubblicazioni di letteratura o di storia italiana,
+                          <lb facs="#riga52_biblio1"/>
+come I Miei Ricordi di <persName>Massimo d’Àzeglio</persName>, le Memorie autografe
+                          <lb facs="#riga53_biblio1"/>
+di un ribelle di <persName>Giuseppe Ricciardi</persName>, la Storia dei Viaggiatori
+                          <lb facs="#riga54_biblio1"/>
+Italiani di <persName>Gaetano Branca</persName>, e la <persName>Lucrezia Borgia</persName> del
+                          <lb facs="#riga55_biblio1"/>
+<persName>Gregorovius</persName>.
+                          <lb facs="#riga56_biblio1"/>
+Sebbene il libro del signor <persName>Fischer</persName> sia destinato specialmente
+                          <lb facs="#riga57_biblio1"/>
+ai Tedeschi, pure ne abbiain fatto questo breve
+                          <lb facs="#riga58_biblio1"/>
+cenno nella Rassegna, perchè ci pare che possa esser letto
+                          <lb facs="#riga59_biblio1"/>
+con profitto anche dagli Italiani.
+</ab>
+</div>
+
+
+<!--BIBLIOGRAFIA 2-->
+<div type="article" n="2" xml:lang="it">
+      <pb n="2" facs="#bibliografia2"/>
+<cb n="1"/>
+<head rend="uppercase">
+
+      <lb facs="#biblio2titolo"/>
+      Scienze Filosofiche
+      <lb/>
+      <persName>Bartolommeo Fontana</persName> -<placeName>Roma</placeName>
+      <date>1879</date>
+</head>
+
+
+<ab>
+                          <lb facs="#riga1_biblio2"/>
+È stato detto da un insigne <roleName>scrittore</roleName> che i libri filoso-<lb break="no"/>
+                          <lb facs="#riga2_biblio2"/>
+fici in <placeName>Italia</placeName> cadono in un pozzo, perchè il nostro pubblico
+                          <lb facs="#riga3_biblio2"/>
+s’interessa assai poco degli studi speculativi. Ma è anche
+                          <lb facs="#riga4_biblio2"/>
+vero che a lato di quella, che in questo periodico fu argu-<lb break="no"/>
+                          <lb facs="#riga5_biblio2"/>
+tamente chiamata « filossera poetica », vi ha pure una « fi-<lb break="no"/>
+                          <lb facs="#riga6_biblio2"/>
+lossera filosofica » invadente il campo fecondo di così alte
+                          <lb facs="#riga7_biblio2"/>
+ricerche, che dovrebb’essere aperto solo a pochi e privile-<lb break="no"/>
+                          <lb facs="#riga8_biblio2"/>
+giati intelletti.
+                          <lb facs="#riga9_biblio2"/>
+Il libro che abbiamo dinanzi è proprio un esempio elo-<lb break="no"/>
+                          <lb facs="#riga10_biblio2"/>
+quente di questa malattia. E uu caos d’idee senza mai la luce
+                          <lb facs="#riga11_biblio2"/>
+dell’ordine, è un labirinto ove ti smarrisci senza speranza
+                          <lb facs="#riga12_biblio2"/>
+di trovare il filo d’<persName>Arianna</persName>. L’A. stesso se ne è accorto, e
+                          <lb facs="#riga13_biblio2"/>
+l’ha confessato molto ingenuamente: « Avverto subito il <roleName>let-<lb break="no"/>
+                          <lb facs="#riga14_biblio2"/>
+tore</roleName> filosofo, egli dice, che questa non può esser roba (sic)
+                          <lb facs="#riga15_biblio2"/>
+per lui; non molta novità d’ idee, non grande varietà di
+                          <lb facs="#riga16_biblio2"/>
+fatti (p. 3)»; e più sotto chiama, con molta ragione, il suo
+                          <lb facs="#riga17_biblio2"/>
+discorso una «peregrinazione aerea (p. 4)». Ma il più bello
+                          <lb facs="#riga18_biblio2"/>
+si è che l’A. non sa lo scopo del suo lavoro. « La mia
+                          <lb facs="#riga19_biblio2"/>
+preoccupazione in questo momento (son parole testuali)
+                          <lb facs="#riga20_biblio2"/>
+(p. 3) non è cosa da poco ; chè desiderando io di scrivere alcu-<lb break="no"/>
+                          <lb facs="#riga21_biblio2"/>
+ne pagine intorno alla dottrina dell’umano incivilimento, non
+                          <lb facs="#riga22_biblio2"/>
+riesco a comprendere ciò che mi vi induca ; non so se io
+                          <lb facs="#riga23_biblio2"/>
+scriva per me stesso o per gli altri. Per me forse no, perchè
+                          <lb facs="#riga24_biblio2"/>
+mentre scrivo non leggo e non imparo; per gli altri nep-<lb break="no"/>
+                          <lb facs="#riga25_biblio2"/>
+pure, perchè non saprei chi far vittima d’un ragionamento
+                          <lb facs="#riga26_biblio2"/>
+che riuscirà o troppo breve o troppo lungo, ecc. »
+                          <lb facs="#riga27_biblio2"/>
+. . . Per cui dunque ho finito,
+                          <lb facs="#riga28_biblio2"/>
+conchiuderebbe a ragione il <roleName>marchese</roleName> <persName>Colombi</persName>; ma la virtù
+                          <lb facs="#riga29_biblio2"/>
+del silenzio non è da tutti, specialmente ai nostri giorni, e
+                          <lb facs="#riga30_biblio2"/>
+l’A. pur troppo non la conosce. E realmente questo lavoro
+                          <lb facs="#riga31_biblio2"/>
+è pieno di tali inesattezze, d’affermazioni così gratuite, che
+                          <lb facs="#riga32_biblio2"/>
+enumerarle sarebbe tanto difficile quanto inutile. Ad ogni
+                          <lb facs="#riga33_biblio2"/>
+tratto l’A. sembra stanco del soggetto che ha fra mano, . e
+                          <lb facs="#riga34_biblio2"/>
+passa a uu nuovo argomento con una disinvoltura senza
+                          <lb facs="#riga35_biblio2"/>
+pari. Nel 1° libro, dopo aver parlato dei criteri conoscitivi, inco-<lb break="no"/>
+                          <lb facs="#riga36_biblio2"/>
+mincia, non si sa come, ad esporre il concetto della storia
+                          <lb facs="#riga37_biblio2"/>
+presso gli antichi, e sorvolando poi il medio evo si arresta
+                          <lb facs="#riga38_biblio2"/>
+al Vico senza però svelare la genesi intima della scienza
+                          <lb facs="#riga39_biblio2"/>
+nuova e delle dottrine vichiane. Peggio ideati e ancora più
+                          <lb facs="#riga39_biblio2"/>
+confusi sono il 2° e 3° libro. Quivi l’A. è in preda a continue
+                          <lb facs="#riga40_biblio2"/>
+divagazioni, si abbandona ad osservazioni del tutto estra-<lb break="no"/>
+                          <lb facs="#riga41_biblio2"/>
+nee ai problemi complessi che con singolare leggerezza
+                          <lb facs="#riga42_biblio2"/>
+affronta e risolve, introduce episodi personali affatto inop-<lb break="no"/>
+                          <lb facs="#riga43_biblio2"/>
+portuni (p. e., a pag. <num>25, 216, 278, 315</num>, ecc.), si lascia do-<lb break="no"/>
+                          <lb facs="#riga44_biblio2"/>
+minare da certe sue fantasie così prive di fondamento ch’egli
+                          <lb facs="#riga45_biblio2"/>
+stesso si avvede ad ogni tratto di sognare, e giunge fino a
+                          <lb facs="#riga46_biblio2"/>
+dubitare di essere « in sensi » (sic. p. <num>161</num>) e che tutto il suo
+                          <lb facs="#riga47_biblio2"/>
+sistema sia « inatto » (p. <num>149</num>). E sogna difatti quando ci
+                          <lb facs="#riga48_biblio2"/>
+dà « per certo » che l’idea del paradiso terrestre, dell’età
+                          <lb facs="#riga49_biblio2"/>
+dell’oro altro non significhino che la scoverta del principio
+                          <lb facs="#riga50_biblio2"/>
+di causalità, cioè della ragione.
+                          <lb facs="#riga51_biblio2"/>
+Quei pochi che arrivano, come noi, alla fine del libro, lo
+                          <lb facs="#riga52_biblio2"/>
+chiudono senza essere capaci di raccogliere un frutto dalla
+                          <lb facs="#riga53_biblio2"/>
+faticosa lettura; se non che restano stupefatti come l’A. ab-<lb break="no"/>
+                          <lb facs="#riga54_biblio2"/>
+bia potuto fare il computo delle idee del Vico. « Consi-
+                          <lb facs="#riga55_biblio2"/>
+derando conclude l’A. (p. <num>337</num>), quali siano gli autori venuti
+                          <lb facs="#riga56_biblio2"/>
+in mente al Vico mentre scriveva la Scienza Nuova (<num>274</num>), e
+                          <lb facs="#riga57_biblio2"/>
+prendendo per base quelli che poteva aver letto (<num>228</num>), le
+                          <lb facs="#riga58_biblio2"/>
+idee del Vico conterrebbero :
+                          <lb facs="#riga59_biblio2"/>
+Di erudizione storica e di critica filo-
+                          <lb facs="#riga60_biblio2"/>
+logica all’incirca parti ...... <num>48</num>
+                          <lb facs="#riga61_biblio2"/>
+Di scienza morale e giuridica. . . . <num>31</num>
+                          <lb facs="#riga62_biblio2"/>
+D’arte. ............ <num>13</num>
+                          <lb facs="#riga63_biblio2"/>
+Di scienza fisica. ........ <num>8</num>
+                          <lb facs="#riga64_biblio2"/>
+Totale. . . <num>100</num> »
+                          <lb facs="#riga65_biblio2"/>
+Altrettanto volevamo far noi delle idee contenute in que-<lb break="no"/>
+                          <lb facs="#riga66_biblio2"/>
+sto libro, ma non c’è riuscito di tirare la somma.
+
+</ab>
+</div>
+
+<!--NOTIZIA 1-->
+<div type="article" n="1" xml:lang="it">
+<pb n="1" facs="#notizia1" />
+<cb n="1"/>
+<head rend="uppercase">
+<lb facs="#notizia1titolo"/>
+Periodici Inglesi
+<lb />
+<orgName type="publisher">The Academy</orgName>. —<date>22 Novembre</date>.
+</head>
+<ab>
+                            <lb facs="#riga1_not1"/>
+<persName>Charles Heath Wilson</persName>fa una minuta
+                            <lb facs="#riga2_not1"/>
+descrizione dell’ affresco del <persName>Beato Angelico</persName>, rappresentante la Madonna
+                            <lb facs="#riga3_not1"/>
+con il bambino, coi santi <persName>Domenico</persName> o <persName>Tommaso d’Aquino</persName>, che trovavasi
+                            <lb facs="#riga4_not1"/>
+nel <placeName>convento di San Domenico</placeName>, sotto <persName>Fiesole</persName>. Questo dipinto essendo
+                            <lb facs="#riga5_not1"/>
+in vendita, il <persName>Wilson</persName> augura che il <orgName>Governo italiano</orgName> o il <orgName>Governo in-<lb break="no"/>
+                            <lb facs="#riga6_not1"/>
+glese</orgName> ne facciano acquisto.
+
+
+<orgName type="publisher">The Saturday Review</orgName>. —<date>22 Novembre</date>.
+
+
+                            <lb facs="#riga5_not1"/>
+Parla a lungo del restauro della
+                            <lb facs="#riga6_not1"/>
+facciata di San <persName>Marco</persName> a <placeName>Venezia</placeName> che ha provocato una certa agita-<lb break="no"/>
+                            <lb facs="#riga7_not1"/>
+zione in <placeName>Inghilterra</placeName>; e tratta la questione, fino a qual punto una na-<lb break="no"/>
+                            <lb facs="#riga8_not1"/>
+zione potrebbe immischiarsi negli affari interni di un’ altra.
+
+
+<orgName type="publisher">The Athenaeum</orgName>. —<date>15 Novembre</date>.
+
+
+                           <lb facs="#riga9_not1"/>
+Parla di un meeting tenuto contro il
+                           <lb facs="#riga10_not1"/>
+restauro della facciata di San <persName>Marco</persName> a <placeName>Venezia</placeName>.
+                           <lb facs="#riga11_not1"/>
+— Accenna all’acquisto fatto dalla <placeName>Galleria Nazionale di Londra</placeName> di
+                           <lb facs="#riga12_not1"/>
+un quadro rappresentante l’Incredulità di San <persName>Tommaso</persName>, attribuito al
+                           <lb facs="#riga13_not1"/>
+<persName>Perugino</persName>.
+                           <lb facs="#riga14_not1"/>
+Parla delle osservazioni fatto dal Tempel sulla
+                           <lb facs="#riga15_not1"/>
+macchia rossa del pianeta <placeName>Giove</placeName>.
+                           <lb facs="#riga16_not1"/>
+— <persName>Federigo W. Burton</persName> fa la storia di un quadro del <persName>Perugino</persName> rap-<lb break="no"/>
+                           <lb facs="#riga17_not1"/>
+presentante la Vergine col Figliuolo fra San <persName>Girolamo</persName> e San <persName>Francesco</persName>,
+                           <lb facs="#riga18_not1"/>
+posto ultimamente nella <placeName>Galleria Nazionale di Londra</placeName>.
+                           <lb facs="#riga19_not1"/>
+— Espone le ragioni allegato da differenti persone autorevoli con-<lb break="no"/>
+                           <lb facs="#riga20_not1"/>
+tro il restauro della facciata di San <persName>Marco</persName> a <placeName>Venezia</placeName>.
+                           <lb facs="#riga21_not1"/>
+— <persName>I. T. Wood</persName> descrivo lo stato attuale della Madonna del Sacco
+                           <lb facs="#riga22_not1"/>
+di <persName>Andrea del Sarto</persName> esistente nel <placeName>convento della Santissima Annunziata</placeName>
+                           <lb facs="#riga23_not1"/>
+a <placeName>Firenze</placeName>.
+</ab>
+</div>
+
+<!--NOTIZIA 2-->
+<div type="article" n="1" xml:lang="it">
+      <pb n="1" facs="#notizia2"/>
+<cb n="1"/>
+<head rend="uppercase">
+      <lb facs="#notizia2titolo"/>
+      Periodici Francesi
+      <lb />
+      <orgName type="publisher">Revue Archéologique</orgName>. -<date>Ottobre</date>.
+</head>
+<ab>
+                          <lb facs="#riga1_not2"/>
+<persName>Eugenio Muntz</persName> rileva l’ impor-<lb break="no"/>
+                          <lb facs="#riga2_not2"/>
+tanza degli oggetti d’arte posseduti da <persName>Lorenzo il Magnifico</persName> e ne pub-<lb break="no"/>
+                          <lb facs="#riga3_not2"/>
+blica l’ inventario esistente nell’ <placeName>Archivio di Stato</placeName> a <placeName>Firenze</placeName>.
+
+<orgName type="publisher">Journal des Débats</orgName>. -<date>19 Novembre</date>
+
+
+      <lb facs="#riga4not_2"/>
+Studio su <persName>Pio Nono</persName> e <persName>Vittorio
+      <lb facs="#riga5not_2"/>
+Emanuele</persName> fondato sul libro di <persName>Giulio Zeller</persName>.
+
+</ab>
+</div>
+
+
+
+
+
+</div>
+</body>
+
+
+<back>
+      <listPerson>
+            <person>
+                  <persName>Avellaneda</persName>
+            </person>
+            <person>
+                  <persName>F. B.</persName>
+            </person>
+            <person>
+                  <persName>Elisabetta</persName>
+            </person>
+            <person>
+                  <persName>Fawcett</persName>
+            </person>
+            <person>
+                  <persName>Gregorovius</persName>
+            </person>
+            <person>
+                  <persName>Paul David Fischer</persName>
+            </person>
+            <person>
+                  <persName>Massimo d'Azeglio</persName>
+            </person>
+            <person>
+                  <persName>Giuseppe Ricciardi</persName>
+            </person>
+            <person>
+                  <persName>Gaetano Branca</persName>
+            </person>
+            <person>
+                  <persName>Lucrezia Borgia</persName>
+            </person>
+            <person>
+                  <persName>Bartolommeo Fontana</persName>
+            </person>
+            <person>
+                  <persName>Arianna</persName>
+            </person>
+            <person>
+                  <persName>Colombi</persName>
+            </person>
+            <person>
+                  <persName>Charles Heath Wilson</persName>
+            </person>
+            <person>
+                  <persName>Beato Angelico</persName>
+            </person>
+            <person>
+                  <persName>Domenico</persName>
+            </person>
+            <person>
+                  <persName>Tommaso d'Aquino</persName>
+            </person>
+            <person>
+                  <persName>Marco</persName>
+            </person>
+            <person>
+                  <persName>Federico W. Burton</persName>
+            </person>
+            <person>
+                  <persName>Perugino</persName>
+            </person>
+            <person>
+                  <persName>Girolamo</persName>
+            </person>
+            <person>
+                  <persName>Francesco</persName>
+            </person>
+            <person>
+                  <persName>I. T. Wood</persName>
+            </person>
+            <person>
+                  <persName>Andrea Del Sarto</persName>
+            </person>
+            <person>
+                  <persName>Eugenio Muntz</persName>
+            </person>
+            <person>
+                  <persName>Lorenzo Il Magnifico</persName>
+            </person>
+            <person>
+                  <persName>Pio Nono</persName>
+            </person>
+            <person>
+                  <persName>Vittorio Emmanuele</persName>
+            </person>
+            <person>
+                  <persName>Giulio Zeller</persName>
+            </person>
+      </listPerson>
+
+      <listPlace>
+      <place>
+            <placeName>Argentina</placeName>
+      </place>
+      <place>
+            <placeName>Chilì</placeName>
+      </place>
+      <place>
+            <placeName>Europa</placeName>
+      </place>
+      <place>
+            <placeName>America</placeName>
+      </place>
+      <place>
+            <placeName>Rosario</placeName>
+      </place>
+      <place>
+            <placeName>Patagonia</placeName>
+      </place>
+      <place>
+            <placeName>Chaco</placeName>
+      </place>
+      <place>
+            <placeName>Santa Fè</placeName>
+      </place>
+      <place>
+            <placeName>Inghilterra</placeName>
+      </place>
+      <place>
+            <placeName>Italia</placeName>
+      </place>
+      <place>
+            <placeName>scozia</placeName>
+      </place>
+      <place>
+            <placeName>Irlanda</placeName>
+      </place>
+      <place>
+            <placeName>Australia</placeName>
+      </place>
+      <place>
+            <placeName>Berlino</placeName>
+      </place>
+      <place>
+            <placeName>Germania</placeName>
+      </place>
+      <place>
+            <placeName>Sicilia</placeName>
+      </place>
+      <place>
+            <placeName>Roma</placeName>
+      </place>
+      <place>
+            <placeName>Ravenna</placeName>
+      </place>
+      <place>
+            <placeName>Terni</placeName>
+      </place>
+      <place>
+            <placeName>Foligno</placeName>
+      </place>
+      <place>
+            <placeName>Assisi</placeName>
+      </place>
+      <place>
+            <placeName>Perugia</placeName>
+      </place>
+      <place>
+            <placeName>Convento di San Domenico</placeName>
+      </place>
+      <place>
+            <placeName>Fiesole</placeName>
+      </place>
+      <place>
+            <placeName>Venezia</placeName>
+      </place>
+      <place>
+            <placeName>Galleria Nazionale di Londra</placeName>
+      </place>
+      <place>
+            <placeName>Convento della Santissima Annunziata</placeName>
+      </place>
+      <place>
+            <placeName>Archivio di Stato</placeName>
+      </place>
+      <place>
+            <placeName>Firenze</placeName>
+      </place>
+      </listPlace>
+
+      <listOrg>
+      <org>
+            <orgName>congresso argentino</orgName>
+      </org>
+      <org>
+            <orgName>governo nazionale</orgName>
+      </org>
+      <org>
+            <orgName>Stati</orgName>
+      </org>
+      <org>
+            <orgName>Repubblica Argentina</orgName>
+      </org>
+      <org>
+            <orgName>governo argentino</orgName>
+      </org>
+      <org>
+            <orgName>commisione generale d'immigrazione</orgName>
+      </org>
+      <org>
+            <orgName>parlamento</orgName>
+      </org>
+      <org>
+            <orgName>governo italiano</orgName>
+      </org>
+      <org>
+            <orgName>governo inglese</orgName>
+      </org>
+      <org>
+            <orgName>The Academy</orgName>
+      </org>
+      <org>
+            <orgName>The Saturday Review</orgName>
+      </org>
+      <org>
+            <orgName>The Athenaeum</orgName>
+      </org>
+      <org>
+            <orgName>Revue Archéologique</orgName>
+      </org>
+      <org>
+            <orgName>Journal des Débats</orgName>
+      </org>
+      </listOrg>
+      </back>
+
+
+      </text>
+      </TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+           
